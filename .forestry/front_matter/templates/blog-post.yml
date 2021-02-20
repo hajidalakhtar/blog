@@ -14,16 +14,30 @@ fields:
 - type: text
   name: title
   label: title
-- type: list
-  name: categories
-  label: categories
 - type: text
   name: weight
   label: weight
-- name: source
-  type: list
+- name: categories
+  type: select
+  default: []
   config:
-    use_select: false
-    min: 
-    max: 
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: categories
+- name: source
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
   label: source
