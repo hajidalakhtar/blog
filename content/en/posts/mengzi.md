@@ -1,7 +1,6 @@
 +++
 categories = ["CHINESE FILOSOFI"]
 date = 2021-02-19T17:00:00Z
-draft = true
 linktitle = "mengzi"
 prev = "treasdasd"
 source = ["https://www.youtube.com/watch?v=J1wgTZ-pVR8", "https://www.youtube.com/watch?v=qvmxbDomk90", "https://id.wikipedia.org/wiki/Mengzi"]
