@@ -1,7 +1,6 @@
 +++
 categories = ["KEMANUSIAAN"]
 date = 2021-02-19T17:00:00Z
-draft = true
 linktitle = "kemanusiaan-freud "
 prev = "asdas"
 source = ["https://www.youtube.com/watch?v=Q6-DKORifPU", "https://id.wikipedia.org/wiki/Sigmund_Freud"]
