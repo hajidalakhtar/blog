@@ -1,0 +1,22 @@
+---
+label: Blog Post
+hide_body: false
+fields:
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: linktitle
+  label: linktitle
+- type: text
+  name: prev
+  label: prev
+- type: text
+  name: title
+  label: title
+- type: list
+  name: categories
+  label: categories
+- type: text
+  name: weight
+  label: weight
