@@ -1,11 +1,10 @@
 ---
-date: 2014-03-09T17:00:00+00:00
+date: 2014-03-09T17:00:00.000+00:00
 linktitle: Migrating from Jekyll
 prev: "/tutorials/mathjax"
 title: MENGZI
 categories:
 - Mengzi
-- Orang Bijak
 weight: "10"
 menu:
   main:
