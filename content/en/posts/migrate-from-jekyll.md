@@ -5,6 +5,7 @@ prev: "/tutorials/mathjax"
 title: MENGZI
 categories:
 - Mengzi
+- Orang Bijak
 weight: "10"
 menu:
   main:
