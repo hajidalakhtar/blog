@@ -24,3 +24,10 @@ fields:
     min: 
     max: 
   label: categories
+- name: source
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: source
