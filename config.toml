@@ -31,7 +31,7 @@ DefaultContentLanguage = "en"
 [params]
 mainSections = ["posts"]
 headTitle = "Berfilsafat"
-disqus = "joway" # disqus account name
+disqus = "hajid_alakhtar" # disqus account name
 extraHead = '<script async src="https://www.googletagmanager.com/gtag/js?id=UA-xxx"></script>'
 [[params.socials]]
 name = "About Me"
