@@ -31,7 +31,7 @@ Dari pernikahan tersebut, Amalia dan Jakob memiliki delapan anak dan Sigmund Fre
 
 Menurut Freud Kepribadian memiliki 3 Struktur yang sering bertolak belakang, kita harus bisa menyeimbangkan ke 3 hal ini
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/20d25e1f-3ec3-4c9e-ab60-0dcd3b471e10/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/20d25e1f-3ec3-4c9e-ab60-0dcd3b471e10/Untitled.png)
+[aws4_request&X-Amz-Date=20210220T170450Z&X-Amz-Expires=86400&X-Amz-Signature=6a0c06a62d1620a7eb65ed82b524f098932c1051ef5a19b1db0410eb32445559&X-Amz-SignedHeaders=host&response-content-disposition=filename ="Untitled.png"](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/73252b0a-ab08-4bea-819f-a623304c24ec/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5/20210220/us-west-2/s3/aws4_request&X-Amz-Date=20210220T170450Z&X-Amz-Expires=86400&X-Amz-Signature=6a0c06a62d1620a7eb65ed82b524f098932c1051ef5a19b1db0410eb32445559&X-Amz-SignedHeaders=host&response-content-disposition=filename ="Untitled.png" 'aws4_request&X-Amz-Date=20210220T170450Z&X-Amz-Expires=86400&X-Amz-Signature=6a0c06a62d1620a7eb65ed82b524f098932c1051ef5a19b1db0410eb32445559&X-Amz-SignedHeaders=host&response-content-disposition=filename ="Untitled.png"')
 
 1. **ID** ( Aspek biologis ) adalah dorongan-dorongan instinktif dalam diri manusia, ID adalah tabiat hewani manusia. Bekerja berdasarkan **prinsip kenikmatan,** menghilangkan ketidaknikmatan dengan cara:
    * Refleksi dan reaksi reaksi otomatis (bersin, berkedip )
@@ -109,7 +109,7 @@ Konsep dari teori Freud yang paling terkenal adalah tentang adanya alam bawah sa
 
 Pengalaman seksual dari ibu seperti menyusui. Selanjutnya mengalami perkembangannya atau tersublimasi, hingga memunculkan berbagai perilaku lain yang disesuaikan dengan aturan norma masyarakat atau norma ayah. Freud menyejajarkan atau tidak menunggalkan insting seksual saja yang ada di dalam diri manusia, tetapi disandingkan dengan insting mati (Thanatos)
 
-Freud tertarik dan belajar **hipnotis** di Prancis, lalu menggunakannya untuk membantu penderita penyakit mental. Freud kemudian meninggalkan hipnotis setelah ia berhasil menggunakan metode baru untuk menyembuhkan penderita tekanan Psikologis yaitu **asosiasi bebas** dan **analisis mimpi__. Dasar terciptanya metode tersebut adalah dari konsep alam bawah sadar. ****
+Freud tertarik dan belajar **hipnotis** di Prancis, lalu menggunakannya untuk membantu penderita penyakit mental. Freud kemudian meninggalkan hipnotis setelah ia berhasil menggunakan metode baru untuk menyembuhkan penderita tekanan Psikologis yaitu **asosiasi bebas__ dan **analisis mimpi__. Dasar terciptanya metode tersebut adalah dari konsep alam bawah sadar. ****
 
 * **Asosiasi bebas adalah** metode yang digunakan untuk mengungkap masalah-masalah yang ditekan oleh diri, seseorang atau lingkungan tetapi tanpa di sadari terus mendorong keluar sehingga menimbulkan permasalahan.
 * **Analisis Mimpi**, digunakan oleh Freud dari pemahamannya bahwa mimpi merupakan pesan alam bawah sadar yang abstrak terhadap alam sadar, pesan-pesan ini berisi keinginan, ketakutan dan berbagai macam aktivitas emosi lain
