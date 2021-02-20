@@ -1,159 +1,173 @@
 ---
 date: 2014-03-10
 linktitle: Migrating from Jekyll
+prev: "/tutorials/mathjax"
+title: Migrate to Hugo from Jekyll
+categories:
+- Mengzi
+weight: "10"
 menu:
   main:
     parent: tutorials
-prev: /tutorials/mathjax
-title: Migrate to Hugo from Jekyll
-categories: [
-    "Docs",
-]
-weight: 10
+    weight: 10
+
 ---
+Mensius atau Mengzi (sekitar 372 SM - 289 SM) adalah seorang filsuf Tiongkok. Ia adalah penerus ajaran Khonghucu/Kongzi yang hidup sekitar 300 tahun setelah wafatnya Khonghucu. Ia telah banyak belajar dari cucu Khonghucu yang bernama Zi Si/Cu Su yang membukukan Kitab Zhong Yong/Tengah Sempurna salah satu bagian dari Kitab Shi Shu yang merupakan tuntunan Keimanan bagi para penganut agama 'Ru' atau Khonghucu.
 
-## Move static content to `static`
-Jekyll has a rule that any directory not starting with `_` will be copied as-is to the `_site` output. Hugo keeps all static content under `static`. You should therefore move it all there.
-With Jekyll, something that looked like
+***
 
-    ▾ <root>/
-        ▾ images/
-            logo.png
+# DAFTAR ISI
 
-should become
+***
 
-    ▾ <root>/
-        ▾ static/
-            ▾ images/
-                logo.png
+# MASA KECIL MENGZI
 
-Additionally, you'll want any files that should reside at the root (such as `CNAME`) to be moved to `static`.
+Mengzi di tingal ayah nya pada usia dia masih 3 tahun, ia di asuh oleh ibu nya yang seorang cendekiawan dan bijaksana.
 
-## Create your Hugo configuration file
-Hugo can read your configuration as JSON, YAML or TOML. Hugo supports parameters custom configuration too. Refer to the [Hugo configuration documentation](/overview/configuration/) for details.
+* Semasa kecil Mengzi pernah berpindah tempat sebanyak 3 kali; Yang pertama tempat tinggalnya dekat kuburan, ibu nya sangat khawatir ketika ia sering menirukan orang yang melaksanakan upacara pemakaman (dia selalu melihat orang bersedih),kemudian ibu nya mengajak pindah ke deket pasar, namun kembali ibunya juga merasa khawatir karena ia sering menirukan sebagai layaknya seorang pedagang yang melakukan transaksi jual beli (ada banyak kecurangan di pasar). Akhirnya, sang ibu memilik untuk tingal di dekat sekolah dengan harapan agar anak nya bisa belajar dan bersekolah seperti anak sebayanya, menurut ibu nya lingkungan akan sangat mempengaruhi anak nya
+* Suatu ketika,Mengzi pernah bolos, "Kenapa kamu pulang lebih cepat hari ini" Tanya ibu Mengzi yang masih menenun dengan alat tenunnya. "Saya sangat merindukanmu, ibu" Tanpa mengucapkan sepatah kata pun ibu Mengzi mengambil pisau dan memotong benang pada alat tenun itu tepat di tengahnya. Mengzi sangat terkejut. "Bagimu menunda belajarmu di sekolah adalah sama seperti saya memotong benang pada alat tenunku, Kita sangat miskin. Itulah alasan kenapa saya harus bekerja keras, Kamu harus belajar dengan keras untuk membangun dirimu sendiri, Jika kamu tidak berkonsentrasi pada pelajaranmu dan berhenti di tengah jalan, kita tidak akan pernah keluar dari lingkarang kemiskinan. Kita akan terus hidup dalam ketikdakpastian". Maksut ibu mengzi adalah jangan sampe Mengzi jadi kain perca yang ga ada guna nya, jangan sampe dia jadi orang yang sia sia, mumpung dia masih bisa besekolah maka jangan sia siakan itu
 
-## Set your configuration publish folder to `_site`
-The default is for Jekyll to publish to `_site` and for Hugo to publish to `public`. If, like me, you have [`_site` mapped to a git submodule on the `gh-pages` branch](http://blog.blindgaenger.net/generate_github_pages_in_a_submodule.html), you'll want to do one of two alternatives:
+***
 
-1. Change your submodule to point to map `gh-pages` to public instead of `_site` (recommended).
+# KEBAIKAN
 
-        git submodule deinit _site
-        git rm _site
-        git submodule add -b gh-pages git@github.com:your-username/your-repo.git public
+Kebaikan adalah sesuatu yang sesuai dengan kodrat nya, jika kodrat itu di langar maka akan muncul ketidakbaikan, makan yang membuat perut sakit adalah tidak baik. Jerami merupakan makanan yang baik bagi sapi, tetapi tidak bagi manusia, karena makanan itu tidak sesuai dengan kodrat manusia. Mulut, telinga dan mata manusia sama, memiliki rasa suka dan tidak suka yang sama pula terhadap sesuatu. Demikian pula pikiran manusia terhadap asas-asas moral yang sama, memiliki rasa yang sama, menyukai yang baik dan membenci yang tidak baik
 
-2. Or, change the Hugo configuration to use `_site` instead of `public`.
+## KODRAT MANUSIA ADALAH BAIK
 
-        {
-            ..
-            "publishdir": "_site",
-            ..
-        }
+Hakikatnya manusia adalah baik. Seseorang yang berbuat baik hakikatnya didorong oleh kesadaran yang terdalam terhadap kodratnya. Sebaliknya orang yang berbuat jahat adalah orang yang sedang menyalahi kodrat nya alias lupa hakekat dirinya yang sesungguhnya,
 
-## Convert Jekyll templates to Hugo templates
-That's the bulk of the work right here. The documentation is your friend. You should refer to [Jekyll's template documentation](http://jekyllrb.com/docs/templates/) if you need to refresh your memory on how you built your blog and [Hugo's template](/layout/templates/) to learn Hugo's way.
+Seperti seseorang yang melihat anak kecil lewat di depannya lalu anak kecil tersebut terjatuh ke dalam sumur, pasti akan muncul rasa ingin menolong di dalam diri nya, walaupun nanti tindakan nya macem macem seperti kamu takut menolong karna ketinggian sumur itu, atau kamu lagi sibuk jadi ga bisa menolong nya, atau kamu biarin aja karna dia bisa keluar dari sumur itu karna sumur nya tidak terlalu dalam, tapi inti nya pertama ketika kita melihat orang yang butuh pertolongan kita akan berniat untuk menolong nya walaupun ada banyak pertimbangan
 
-As a single reference data point, converting my templates for [heyitsalex.net](http://heyitsalex.net/) took me no more than a few hours.
+## WATAK SEJATI MANUSIA (XING)
 
-## Convert Jekyll plugins to Hugo shortcodes
-Jekyll has [plugins](http://jekyllrb.com/docs/plugins/); Hugo has [shortcodes](/doc/shortcodes/). It's fairly trivial to do a port.
+Manusia memiliki sifat asli yang baik, diantara nya:
 
-### Implementation
-As an example, I was using a custom [`image_tag`](https://github.com/alexandre-normand/alexandre-normand/blob/74bb12036a71334fdb7dba84e073382fc06908ec/_plugins/image_tag.rb) plugin to generate figures with caption when running Jekyll. As I read about shortcodes, I found Hugo had a nice built-in shortcode that does exactly the same thing.
+* **Cinta Kasih (REN)** = Cinta kasih adalah watak asli manusia, jadi kebencian, peperangan itu melangar kodrat manusia dan akan menjadi ketidakbaikan **seperti** cinta kepada manusia. bisa itu orang tua, istri, pacar, keluarga dan orang lain
+* **Kebenaran (YI)** = Tidak ada orang yang ingin tidak benar **seperti** orang yang sudah tau salah tapi mengeluarkan argumen yang membuat dia terlihat benar, mereka membuat argumen tersebut karna mereka takut di nilai tidak benar, karna kebenaran adalah kodrat nya manusia
+* **Kesusilaan (LI)** = Kita tidak nyaman melihat orang yang berperilaku tidak sopan, karna kita punya kodrat keasusilaan **seperti** kita tidak nyaman ketika melihat anak kecil yang tidak sopan kepada orang tua nya, atau murit yang tidak sopan dengan guru nya
+* **Bijaksana (TI)** = Mewujutkan kebenaran, keasusilaan dan cinta kasih dengan pas/sesuai, manusia selalu ingin hiduip nya pas tidak berlebihan, **seperti** kita melihat temen kita yang uang nya sedikit tapi hobi nya belanja, kita kan melihat nya tidak pas, tidak cocok, itu karna sudah menyalahi kodrat
+* **Dapat dipercaya (XIN)** = kalau temen kita dapat di percaya kita akan merasa seneng dan nyaman, karena kodrat nya manusia itu dapat dipercaya
 
-Jekyll's plugin:
+jika semua watak manusia ini sudah tidak ada di dunia maka manusia sudah punah, yang ada hanya binatang saja, karena ini lah watak sejati manusia yang membedakan nya dengan hewan
 
-    module Jekyll
-      class ImageTag < Liquid::Tag
-        @url = nil
-        @caption = nil
-        @class = nil
-        @link = nil
-        // Patterns
-        IMAGE_URL_WITH_CLASS_AND_CAPTION =
-        IMAGE_URL_WITH_CLASS_AND_CAPTION_AND_LINK = /(\w+)(\s+)((https?:\/\/|\/)(\S+))(\s+)"(.*?)"(\s+)->((https?:\/\/|\/)(\S+))(\s*)/i
-        IMAGE_URL_WITH_CAPTION = /((https?:\/\/|\/)(\S+))(\s+)"(.*?)"/i
-        IMAGE_URL_WITH_CLASS = /(\w+)(\s+)((https?:\/\/|\/)(\S+))/i
-        IMAGE_URL = /((https?:\/\/|\/)(\S+))/i
-        def initialize(tag_name, markup, tokens)
-          super
-          if markup =~ IMAGE_URL_WITH_CLASS_AND_CAPTION_AND_LINK
-            @class   = $1
-            @url     = $3
-            @caption = $7
-            @link = $9
-          elsif markup =~ IMAGE_URL_WITH_CLASS_AND_CAPTION
-            @class   = $1
-            @url     = $3
-            @caption = $7
-          elsif markup =~ IMAGE_URL_WITH_CAPTION
-            @url     = $1
-            @caption = $5
-          elsif markup =~ IMAGE_URL_WITH_CLASS
-            @class = $1
-            @url   = $3
-          elsif markup =~ IMAGE_URL
-            @url = $1
-          end
-        end
-        def render(context)
-          if @class
-            source = "<figure class='#{@class}'>"
-          else
-            source = "<figure>"
-          end
-          if @link
-            source += "<a href=\"#{@link}\">"
-          end
-          source += "<img src=\"#{@url}\">"
-          if @link
-            source += "</a>"
-          end
-          source += "<figcaption>#{@caption}</figcaption>" if @caption
-          source += "</figure>"
-          source
-        end
-      end
-    end
-    Liquid::Template.register_tag('image', Jekyll::ImageTag)
+## UNSUR FUNDAMENTAL KHAS MANUSIA
 
-is written as this Hugo shortcode:
+Kita akan sukses menjadi manusia ketika memiliki unsur fundamental khas manusia, jika manusia tidak memiliki unsur ini berarti dia hewan
 
-    <!-- image -->
-    <figure {{ with .Get "class" }}class="{{.}}"{{ end }}>
-        {{ with .Get "link"}}<a href="{{.}}">{{ end }}
-            <img src="{{ .Get "src" }}" {{ if or (.Get "alt") (.Get "caption") }}alt="{{ with .Get "alt"}}{{.}}{{else}}{{ .Get "caption" }}{{ end }}"{{ end }} />
-        {{ if .Get "link"}}</a>{{ end }}
-        {{ if or (or (.Get "title") (.Get "caption")) (.Get "attr")}}
-        <figcaption>{{ if isset .Params "title" }}
-            {{ .Get "title" }}{{ end }}
-            {{ if or (.Get "caption") (.Get "attr")}}<p>
-            {{ .Get "caption" }}
-            {{ with .Get "attrlink"}}<a href="{{.}}"> {{ end }}
-                {{ .Get "attr" }}
-            {{ if .Get "attrlink"}}</a> {{ end }}
-            </p> {{ end }}
-        </figcaption>
-        {{ end }}
-    </figure>
-    <!-- image -->
+* **Peransaan simpati** = Manusia yang sejati punya rasa simpati, kalo ada sodara nya yang susah kita memiliki rasa ingin membantu, berbeda dengan hewan yang tidak mempedulikan hewan lain
+* **Malu** = Manusia pasti memiliki malu, jika tidak memiliki rasa malu pasti dia tidak akan mempedulikan segalanya, **seperti** orang yang mecuri, dia tidak akan mau mengaku karna malu dengan apa yang sudah dia perbuat, malu ini menjadi dasar nya keadilan dan kebenaran
+* **Rendah hati** = Manusia akan mengutamankan orang lain, jika kita hanya ingin enak sendiri itu akan membuat kita menjadi sombong, kalau binatang tidak mungkin memiliki rasa rendah hati, tidak mungkin bebek mendahului bebek lain yang lebih tua
+* **Benar dan salah** = Manusia memiliki rasa nyaman dengan kebenaran dan tidak nyaman dengan yang salah. Memang kita manusia kadang kadang salah tapi jangan sampe hilang rasa bersalah. Jangan memaklumi hal yang salah supaya kita tetap memiliki rasa bersalah
 
-### Usage
-I simply changed:
+Jika ada yang kurang dari unsur unsur ini di dalam diri kita, maka kita harus langsung muhasabah diri kita, jika manusia sudah tidak memiliki unsur unsur ini pasti peradaban manusia akan musnah
 
-    {% image full http://farm5.staticflickr.com/4136/4829260124_57712e570a_o_d.jpg "One of my favorite touristy-type photos. I secretly waited for the good light while we were "having fun" and took this. Only regret: a stupid pole in the top-left corner of the frame I had to clumsily get rid of at post-processing." ->http://www.flickr.com/photos/alexnormand/4829260124/in/set-72157624547713078/ %}
+## SUMBER KEBAIKAN: HATI (HSIN)
 
-to this (this example uses a slightly extended version named `fig`, different than the built-in `figure`):
+Kunci dari kebaikan kata Mengzi adalah hati. Dan hati memiliki 2 fungsi yaitu:
 
-    {{%/* fig class="full" src="http://farm5.staticflickr.com/4136/4829260124_57712e570a_o_d.jpg" title="One of my favorite touristy-type photos. I secretly waited for the good light while we were having fun and took this. Only regret: a stupid pole in the top-left corner of the frame I had to clumsily get rid of at post-processing." link="http://www.flickr.com/photos/alexnormand/4829260124/in/set-72157624547713078/" */%}}
+* **Hati yang peka** = Membuat manusia mempunyai rasa simpati dan ****bela rasa terhadap penderitaan orang lain. Hati yang peka ini juga menjadi landasan pengembangan masyarakat. Masyarakat yang beradab tidak hanya bergantung pada sistem politik dan hukum, tetapi juga pada kualitas hati manusia **seperti** ketika kita melihat oranga yang kesusahan, lalu kita memiliki rasa kasihan
+* **Hati yang menalar** = Hati yang menalar berarti hati yang reflektif. Hati yang reflektif mampu mengantar orang yang menyadari dan masuk ke dalam kodratnya sebagai manusia, Refleksi itu membuat manusia mampu memilah dan memilih yang baik dari yang jahat. Karena itu, kehancuran seseorang atau suatu masyarakat bisa terjadi kerena kurang merefleksi diri **seperti** ketika kita sudah merasa kasian kepada orang lain dan kita inggin membantu nah membantu nya itu adalah fungsi hati yang menalar
 
-As a bonus, the shortcode named parameters are, arguably, more readable.
+## MENGENDALIKAN KODRAT EMOSIONAL & KEMAMPUAN RASIONAL
 
-## Finishing touches
-### Fix content
-Depending on the amount of customization that was done with each post with Jekyll, this step will require more or less effort. There are no hard and fast rules here except that `hugo server --watch` is your friend. Test your changes and fix errors as needed.
+Apabila kemampuan-kemampuan rasional kuat, maka kekuatan tersebut akan dapat mengendalikan kondrat emosional. Sedangkan ketika pembawaan emosional yang lebih kuat, ia akan dapat mengambil ahli peran kemampuan rasional. Kodrat emosional harus dikendalikan sehingga tidak menjelma kekuatan amoral dan sebaliknya akan menjelma kekuatan moral,tetapi tidak dapat ditindas. Untuk itu, perlu kerja dari kemampuan rasional.
 
-### Clean up
-You'll want to remove the Jekyll configuration at this point. If you have anything else that isn't used, delete it.
+Bagaimana agar kemampuan rasional dapat bekerja optimal? jawaban nya adalah apabila seseorang tidak memiliki keinginan terlalu banyak dan hasrat berlebihan terhadap sesuatu. Karena ketika kita memiliki banyak keinginan yang tidak terlalu pending lama kelamaan akal kita akan lemah/cape, dan ketika kita harus mengunakannya untuk hal yang penting seperti emosi, sehinga kita tidak bisa mengatur emosi dengan akal
 
-## A practical example in a diff
-[Hey, it's Alex](http://heyitsalex.net/) was migrated in less than a _father-with-kids day_ from Jekyll to Hugo. You can see all the changes (and screw-ups) by looking at this [diff](https://github.com/alexandre-normand/alexandre-normand/compare/869d69435bd2665c3fbf5b5c78d4c22759d7613a...b7f6605b1265e83b4b81495423294208cc74d610).
+Bercita cita sejauh jangkawan mu saja, jangan dibuat susah nanti malah akan membuat mu susah sendiri, jangan kamu bercita cita ketika kamu bangun tidur besok, indonesia sudah tidak ada masalah apapun lagi, itu hal yang tidak mungkin dan akan membuatmu akal mu cape
+
+## MENGAPA ADA KEJAHATAN?
+
+Jika manusia itu kodrat nya baik, lalu menagapa ada kejahatan? kata nya Mengzi ada beberapa yang menyebabkan kejahatan
+
+* Kejahatan terjadi karena pengaruh lingkungan social **seperti** masa kecil Mengzi, jika dia tingal di deket kuburan maka mental nya nanti akan sedih terus karena selalu melihat orang yang sedang sedih karena ditingal orang yang mereka sayang, begitu pun ketika Mengzi tinggal di pasar maka mental nya akan menjadi mental penjual
+* Kejahatan terjadi karena orang menyangkal atau menolak kebaikan kodrat kebaikan yang ada di dalam dirinya karena mereka memandang diri terlalu negatif dan tanpa beharga, tak akan peduli dengan kebaikan **seperti** saya bohong, lalu saya menyangkal itu, saya beralasan orang lain biasa berbohong dan tidak ada apapun yang terjadi, lalu saya berkata dalam hati "yaudah lah bohong aja, toh aku berbohong tidak pernah ketahuan juga"
+* Kurang merefleksi diri. Semakin seseorang kurang merefleksi diri, semakin ia tidak mengenal kebaikan yang ada dalam dirinya ****
+
+***
+
+# PEMERINTAHAN
+
+Mengzi sering melakukan pembicaraan dengan para Raja atau penguasa pada masa itu untuk meyakinkan mereka agar menjadi pemimpin yang benar dan bermoral. Disamping itu pula dia mengajarkan tentang demokrasi dalam pemerintahan, karena seorang Raja atau pemimpin itu dipercaya mendapatkan mandat dari Tian (Langit) atau disebut dengan Tian Ming. Dia harus bertindak sebagai ayah sekaligus bunda untuk rakyatnya. Ditegaskannya pula bahwa : "Tuhan melihat seperti halnya rakyat melihat, dan Tuhan mendengar seperti halnya rakyat mendengar".
+
+## DUA JENIS PEMERINTAHAN
+
+Menurut Mengzi pemerintahan di bagi menjadi 2 yaitu
+
+* Pemerintahan yang dapat merebut hati rakyat, pemerintah yang pertama bisa dibangun apabila raja dipilih oleh rakyat
+* Pemerintah yang diperoleh melalui jalan kekerasan. Cenderung ke sistem diktator, yang memerintah melalui tekanan-tekanan yang membatasi kebebasan dan gerak hidup masyarakat (dahulu untuk merebut kekuasaan bisa dilakukan dengan cara merebutnya dengan kekerasan)
+
+## PEMERINTAHAN UNTUK RAKYAT
+
+Mengzi menekankan bahwa komponen paling penting dari setiap negara adalah rakyat, dan bukan penguasa. Adalah kewajiban peguasa memajukan kesejahteraan rakyat; Khususnya dia harus memberikan rakyat itu penutan moral dan kondisi yang layak untuk hidupnya
+
+Mengzi percaya bahwa kekuasaan sorang raja berasal dari langit; tetapi seorang raja yang mengabaikan kesejateraan rakyat akan kehilangan "mandat dari langit" sepantasnya ditumbangkan, "Langit melihat seperti rakyat melihat"
+
+## JEN (KEMANUSIAAN) SEBAGAI DASAR PEMERINTAHAN
+
+Pemerintahan / Penguasa yang baik adalah Penguasa yang menjalankan kekuasaan berdasarkan dorongan-dorongan kemanusiaan yang ada dalam dirinya, bukan berdasarkan tekanan-tekanan dari luar
+
+Seseorang Raja atau Gubernur harus membiarkan dorongan-dorongan kemanusiaan bekerja dalam dirinya dan berperan sesuai kodratnya. Bahkan dia juga harus menyebarkan kemanusiaan secara meluas kepada penduduk negeri
+
+## PRINSIP PENGELOLAAN NEGARA
+
+Beberapa prinsip-prinsip pengelolaan negara yang baik menurut Mengzi
+
+* Memandang semua orang setara dalam hukum, hak-hak social dan politik
+* Negara mesti dibangun berdasarkan tiga unsur sesuai hirarkinya: rakyat (paling penting), undang-undang (penting), penguasa (kurang penting)
+* Pengangakatan pegawai dan pemberian hukuman terhadap seseorang tidak boleh hanya didasarkan pendapat pegawai pemerintahan melainkan atas permintaan rakyat
+* Pemerintah harus meningkatkan kesejahteraan rakyat dan raja harus mau berbagi kesenangan dengan rakyat
+* Hubungan penguasa dan rakyat tidak boleh sepihak, harus bersifat timbal balik
+* Ada hak menentang penguasa yang tidak adil, zalim, dan menyengsarakan rakyat
+* Pemerintahan yang baik: mengemban amanat rakyat, memperhitungkan suara rakyat dan menyelaraskan diri dengan kodrat manusia yang baik
+
+## MEMANG GAMPANG JADI PEMIMPIN?
+
+Menurut Mengzi, memerintahan negara adalah suatu hal yang sederhana, yang menjadi masalah apakah sang Pemeimpin mau berusaha atau tidak. Adipati Xuan dari daerah Qi Pernah bertanya kepadanya, "Dapatkah kamu menjelaskan perbedaan antara "Usaha yang kurang" dan ketidakmampuan?" Mengzi berkata, "Jika seseorang memintamu untuk membawa Gunung Tai dengan tangan dan meloncari Laut Utara, dan kamu berakata, 'Saya tidak mampu', itu adalah betul betul kamu tak mampu. Tapi apabila seseorang memintamu untuk mematahkan ranting pohon dan kamu berkata, 'Saya tak mampu', itu adalah bentuk dari usaha yang kurang. Memerintah negara tidaklah sulit seperti membawa Gunung Tai dengan tangan dan meloncati Laut Utara. Itu semudah mematahkan ranting pohon'"
+
+## KEBIJAKAN EKONOMI
+
+Sebuah pemerintahan yang baik: memulai kebijakannya dengan mengukur kembali tahan-tanah yang dikuasai dan menetapkan lahan-lahan pertanian dengan baik, pembagian tanah secara adil dan rata
+
+* Sebidang tahan yang luas dibagi menjadi sembilan petak. Masing-Masing dari delapan petak diberikan kepada sebuah keluarga untuk digarap, sedangkan satu petak lagi digarap bersama-sama. Hasil dari petak yang kesembilan diserahkan kepada negara sebagai pajak yang harus dibayar. Sementara delapan keluarga yang mengerjakan delapan petak tanah harus merupakan persekuruan dengan ikatan yang erat dan saling membantu
+* Masing-masing petani menanam pohon surta agar mereka dapat memilihara ulat sutra, serta memelihari lima ekor ayam ternak dan dua ekor babi, mengajurkan pengembangan sektor perikanan dan pemeliharaan hutan.
+
+Ekonomi berkaitan dengan etika. Rakyat yang Lapar menurutnya tidak akan dapat diharapkan menjunjung etika dan moral. Orang ketika lapar tidak berfikir dengan baik apalagi menjunjung etika, yang mereka pikirkan hanyalah bagaimana mereka dapat memenuhi kebutuhan nya akan makanan
+
+***
+
+# PENDIDIKAN
+
+Pendidikan adalah bagian sangat penting dalam satu negara, karena berhubungan dengan kecerdasan dan moralitas masyarakat. Di sisi lain, Majunya tingkat kecerdasan dan moral suatu masyarakat, berkaitan dengan kemakmuran dan kesejahteraan di bidang ekonomi. Masyarakat yang cerdas dan bermoral senantiasa menuntut keadilan, kesejahteraan dan kemakmuran, serta mengusahakannya sepenuh tenaga dengan solidaritas yang tinggi.
+
+## TUJUAN PENDIDIKAN
+
+* Memelihara kodrat bawaan manusia yang pada dasarnya baik
+* Memupuk nilai-nilai moral.
+* Membuat generasi muda cerdas secara intelektual dan menguasai ilmu pengetahuan serta berbagai kecakapan (profesi)
+* Melahirkan manusia mulia/agung: seseorang tidak kehilangan hati kenak-kanaknya sekalipun ia telah beranjak tua. Dia bertindak berdasarkan pertimbangan-pertimbangan moral dan aoa yang dilakukannya selalu berkaitan dengan watak dan kepribadiannya sendiri, bukan atas dasar pertimbangan untung rugi dan atas desakan dari luar
+
+## PENDIDIKAN UNTUK PERBAIKAN MORAL
+
+* Melestarikan kodrat kebaikan dan mengendalikan hasratnya,
+* Mencarinya dalam diri sendiri
+  * misalnya kepaa seseorang yang tetap ingin menyendiri walaupun kita telah memperlakukannya dengan cinta. Kita bertanya pada diri sendiri, apakah kita sungguh murah hati dalam mencintainya. Jika seorang pemimpin melihat bawahannya tidak taat, dia perlu bertanya apakah dia pemimpin yang bijaksana. Demikian pula ketika menghadapi kegagalan
+* Menyesali dan memperbaiki cara
+* Mencari kualitas yang hilang
+* Mengembalikan kodrat kebangsawanan jiwa
+* Tegas dalam menyelesaikan
+
+***
+
+# PEPERANGAN
+
+Mengzi menentang peperangan yang tujuannya semata-mata peperangan, seperti misalnya balas dendam. Peperangan bisa dimaklumi jika dimaksudkan untuk membebaskan rakyat suatu negara yang diperangi dari penderitaan disebabkan kezaliman penguasanya, serta peperangan itu dimaksud untuk menyebarkan sistem pemerintahan yang didasarkan atas kebajikan.
+
+Perangan yang harus dibela adalah perang yang adil dan ketrampilan bertempur seharusnya digunakan hanya untuk menjalankan peperangan yang adil.
+
+Raja yan tak dipercaya rakyat tiak akan dapat mengendalikan rakyat bertempur di pihaknya dalam peperangan. Sebaliknya raja yang memperlakukan rakyatnya dengan baik, akan didukung dengan setia. Negeri yang pemimpinnya seperti itu tidak akan ditaklukkan musuh
+
+## MENCURI SEEKOR AYAM SETIAP BULAN
+
+DaiYing, pejabat pemerintahan dari Daerah Song memutuskan untuk mengurangi pengutan. Dia bertanya kepada Mengzi, "Saya ingin menghapus pungutan. Tapi kita tidak memiliki penghasilan yang cukup. Bagaimana, apakah kita sebaikya memotong pungutannya sedikit saja dulu, dan tunggu tahun depan sebelum menerapkan penghapusan pungutan?" Mengzi berkata, "Ada seorang setiap hari mencuri seekor ayam dari tetangganya tiap hari. Dia sudah diberitahu `ini bukan kelakuan seorang lelaki bermoral` kemudia lelaki itu menjawab: `Oke, saya akan mengurangi jumlah ayam yang saya curi. Saya akan mencuri seekor ayam tiap bulan dan tahun depan saya tidak akan mencuri lagi`"
