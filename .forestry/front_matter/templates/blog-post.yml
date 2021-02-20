@@ -2,6 +2,9 @@
 label: Blog Post
 hide_body: false
 fields:
+- type: text
+  name: title
+  label: title
 - type: datetime
   name: date
   label: date
@@ -11,9 +14,6 @@ fields:
 - type: text
   name: prev
   label: prev
-- type: text
-  name: title
-  label: title
 - type: text
   name: weight
   label: weight
