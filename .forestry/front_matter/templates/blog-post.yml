@@ -18,26 +18,9 @@ fields:
   name: weight
   label: weight
 - name: categories
-  type: select
-  default: []
+  type: list
   config:
-    required: false
-    options: []
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
+    use_select: false
+    min: 
+    max: 
   label: categories
-- name: source
-  type: select
-  default: []
-  config:
-    required: false
-    options: []
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: source
