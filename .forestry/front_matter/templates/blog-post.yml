@@ -11,12 +11,6 @@ fields:
 - type: text
   name: linktitle
   label: linktitle
-- type: text
-  name: prev
-  label: prev
-- type: text
-  name: weight
-  label: weight
 - name: categories
   type: list
   config:
