@@ -12,7 +12,7 @@
     {{ if eq "categories" $taxonomyname }}
       {{ range $key, $value := $taxonomy }}
           <section>
-            <h1 class="site-date-catalog">{{ $key }}</h1>
+            <h1 class="site-date-catalog"> {{ replaceRE "(-)" " " $key}}</h1>
 
                   {{ range $value.Pages }}
 
