@@ -31,3 +31,5 @@ fields:
     min: 
     max: 
   label: source
+pages:
+- content/en/posts/mengzi.md
