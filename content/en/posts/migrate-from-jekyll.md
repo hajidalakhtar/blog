@@ -4,26 +4,28 @@ linktitle: Migrating from Jekyll
 prev: "/tutorials/mathjax"
 title: MENGZI
 categories:
-- Mengzi
+  - Mengzi
+source:
+  - https://github.com/hajidalakhtar/blog/blob/dev2/themes/yinyang/layouts/_default/single.html
 weight: "10"
 menu:
   main:
     parent: tutorials
     weight: 10
-
 ---
+
 Mensius atau Mengzi (sekitar 372 SM - 289 SM) adalah seorang filsuf Tiongkok. Ia adalah penerus ajaran Khonghucu/Kongzi yang hidup sekitar 300 tahun setelah wafatnya Khonghucu. Ia telah banyak belajar dari cucu Khonghucu yang bernama Zi Si/Cu Su yang membukukan Kitab Zhong Yong/Tengah Sempurna salah satu bagian dari Kitab Shi Shu yang merupakan tuntunan Keimanan bagi para penganut agama 'Ru' atau Khonghucu.
 
-***
+---
 
 # MASA KECIL MENGZI
 
 Mengzi di tingal ayah nya pada usia dia masih 3 tahun, ia di asuh oleh ibu nya yang seorang cendekiawan dan bijaksana.
 
-* Semasa kecil Mengzi pernah berpindah tempat sebanyak 3 kali; Yang pertama tempat tinggalnya dekat kuburan, ibu nya sangat khawatir ketika ia sering menirukan orang yang melaksanakan upacara pemakaman (dia selalu melihat orang bersedih),kemudian ibu nya mengajak pindah ke deket pasar, namun kembali ibunya juga merasa khawatir karena ia sering menirukan sebagai layaknya seorang pedagang yang melakukan transaksi jual beli (ada banyak kecurangan di pasar). Akhirnya, sang ibu memilik untuk tingal di dekat sekolah dengan harapan agar anak nya bisa belajar dan bersekolah seperti anak sebayanya, menurut ibu nya lingkungan akan sangat mempengaruhi anak nya
-* Suatu ketika,Mengzi pernah bolos, "Kenapa kamu pulang lebih cepat hari ini" Tanya ibu Mengzi yang masih menenun dengan alat tenunnya. "Saya sangat merindukanmu, ibu" Tanpa mengucapkan sepatah kata pun ibu Mengzi mengambil pisau dan memotong benang pada alat tenun itu tepat di tengahnya. Mengzi sangat terkejut. "Bagimu menunda belajarmu di sekolah adalah sama seperti saya memotong benang pada alat tenunku, Kita sangat miskin. Itulah alasan kenapa saya harus bekerja keras, Kamu harus belajar dengan keras untuk membangun dirimu sendiri, Jika kamu tidak berkonsentrasi pada pelajaranmu dan berhenti di tengah jalan, kita tidak akan pernah keluar dari lingkarang kemiskinan. Kita akan terus hidup dalam ketikdakpastian". Maksut ibu mengzi adalah jangan sampe Mengzi jadi kain perca yang ga ada guna nya, jangan sampe dia jadi orang yang sia sia, mumpung dia masih bisa besekolah maka jangan sia siakan itu
+- Semasa kecil Mengzi pernah berpindah tempat sebanyak 3 kali; Yang pertama tempat tinggalnya dekat kuburan, ibu nya sangat khawatir ketika ia sering menirukan orang yang melaksanakan upacara pemakaman (dia selalu melihat orang bersedih),kemudian ibu nya mengajak pindah ke deket pasar, namun kembali ibunya juga merasa khawatir karena ia sering menirukan sebagai layaknya seorang pedagang yang melakukan transaksi jual beli (ada banyak kecurangan di pasar). Akhirnya, sang ibu memilik untuk tingal di dekat sekolah dengan harapan agar anak nya bisa belajar dan bersekolah seperti anak sebayanya, menurut ibu nya lingkungan akan sangat mempengaruhi anak nya
+- Suatu ketika,Mengzi pernah bolos, "Kenapa kamu pulang lebih cepat hari ini" Tanya ibu Mengzi yang masih menenun dengan alat tenunnya. "Saya sangat merindukanmu, ibu" Tanpa mengucapkan sepatah kata pun ibu Mengzi mengambil pisau dan memotong benang pada alat tenun itu tepat di tengahnya. Mengzi sangat terkejut. "Bagimu menunda belajarmu di sekolah adalah sama seperti saya memotong benang pada alat tenunku, Kita sangat miskin. Itulah alasan kenapa saya harus bekerja keras, Kamu harus belajar dengan keras untuk membangun dirimu sendiri, Jika kamu tidak berkonsentrasi pada pelajaranmu dan berhenti di tengah jalan, kita tidak akan pernah keluar dari lingkarang kemiskinan. Kita akan terus hidup dalam ketikdakpastian". Maksut ibu mengzi adalah jangan sampe Mengzi jadi kain perca yang ga ada guna nya, jangan sampe dia jadi orang yang sia sia, mumpung dia masih bisa besekolah maka jangan sia siakan itu
 
-***
+---
 
 # KEBAIKAN
 
@@ -39,11 +41,11 @@ Seperti seseorang yang melihat anak kecil lewat di depannya lalu anak kecil ters
 
 Manusia memiliki sifat asli yang baik, diantara nya:
 
-* **Cinta Kasih (REN)** = Cinta kasih adalah watak asli manusia, jadi kebencian, peperangan itu melangar kodrat manusia dan akan menjadi ketidakbaikan **seperti** cinta kepada manusia. bisa itu orang tua, istri, pacar, keluarga dan orang lain
-* **Kebenaran (YI)** = Tidak ada orang yang ingin tidak benar **seperti** orang yang sudah tau salah tapi mengeluarkan argumen yang membuat dia terlihat benar, mereka membuat argumen tersebut karna mereka takut di nilai tidak benar, karna kebenaran adalah kodrat nya manusia
-* **Kesusilaan (LI)** = Kita tidak nyaman melihat orang yang berperilaku tidak sopan, karna kita punya kodrat keasusilaan **seperti** kita tidak nyaman ketika melihat anak kecil yang tidak sopan kepada orang tua nya, atau murit yang tidak sopan dengan guru nya
-* **Bijaksana (TI)** = Mewujutkan kebenaran, keasusilaan dan cinta kasih dengan pas/sesuai, manusia selalu ingin hiduip nya pas tidak berlebihan, **seperti** kita melihat temen kita yang uang nya sedikit tapi hobi nya belanja, kita kan melihat nya tidak pas, tidak cocok, itu karna sudah menyalahi kodrat
-* **Dapat dipercaya (XIN)** = kalau temen kita dapat di percaya kita akan merasa seneng dan nyaman, karena kodrat nya manusia itu dapat dipercaya
+- **Cinta Kasih (REN)** = Cinta kasih adalah watak asli manusia, jadi kebencian, peperangan itu melangar kodrat manusia dan akan menjadi ketidakbaikan **seperti** cinta kepada manusia. bisa itu orang tua, istri, pacar, keluarga dan orang lain
+- **Kebenaran (YI)** = Tidak ada orang yang ingin tidak benar **seperti** orang yang sudah tau salah tapi mengeluarkan argumen yang membuat dia terlihat benar, mereka membuat argumen tersebut karna mereka takut di nilai tidak benar, karna kebenaran adalah kodrat nya manusia
+- **Kesusilaan (LI)** = Kita tidak nyaman melihat orang yang berperilaku tidak sopan, karna kita punya kodrat keasusilaan **seperti** kita tidak nyaman ketika melihat anak kecil yang tidak sopan kepada orang tua nya, atau murit yang tidak sopan dengan guru nya
+- **Bijaksana (TI)** = Mewujutkan kebenaran, keasusilaan dan cinta kasih dengan pas/sesuai, manusia selalu ingin hiduip nya pas tidak berlebihan, **seperti** kita melihat temen kita yang uang nya sedikit tapi hobi nya belanja, kita kan melihat nya tidak pas, tidak cocok, itu karna sudah menyalahi kodrat
+- **Dapat dipercaya (XIN)** = kalau temen kita dapat di percaya kita akan merasa seneng dan nyaman, karena kodrat nya manusia itu dapat dipercaya
 
 jika semua watak manusia ini sudah tidak ada di dunia maka manusia sudah punah, yang ada hanya binatang saja, karena ini lah watak sejati manusia yang membedakan nya dengan hewan
 
@@ -51,10 +53,10 @@ jika semua watak manusia ini sudah tidak ada di dunia maka manusia sudah punah, 
 
 Kita akan sukses menjadi manusia ketika memiliki unsur fundamental khas manusia, jika manusia tidak memiliki unsur ini berarti dia hewan
 
-* **Peransaan simpati** = Manusia yang sejati punya rasa simpati, kalo ada sodara nya yang susah kita memiliki rasa ingin membantu, berbeda dengan hewan yang tidak mempedulikan hewan lain
-* **Malu** = Manusia pasti memiliki malu, jika tidak memiliki rasa malu pasti dia tidak akan mempedulikan segalanya, **seperti** orang yang mecuri, dia tidak akan mau mengaku karna malu dengan apa yang sudah dia perbuat, malu ini menjadi dasar nya keadilan dan kebenaran
-* **Rendah hati** = Manusia akan mengutamankan orang lain, jika kita hanya ingin enak sendiri itu akan membuat kita menjadi sombong, kalau binatang tidak mungkin memiliki rasa rendah hati, tidak mungkin bebek mendahului bebek lain yang lebih tua
-* **Benar dan salah** = Manusia memiliki rasa nyaman dengan kebenaran dan tidak nyaman dengan yang salah. Memang kita manusia kadang kadang salah tapi jangan sampe hilang rasa bersalah. Jangan memaklumi hal yang salah supaya kita tetap memiliki rasa bersalah
+- **Peransaan simpati** = Manusia yang sejati punya rasa simpati, kalo ada sodara nya yang susah kita memiliki rasa ingin membantu, berbeda dengan hewan yang tidak mempedulikan hewan lain
+- **Malu** = Manusia pasti memiliki malu, jika tidak memiliki rasa malu pasti dia tidak akan mempedulikan segalanya, **seperti** orang yang mecuri, dia tidak akan mau mengaku karna malu dengan apa yang sudah dia perbuat, malu ini menjadi dasar nya keadilan dan kebenaran
+- **Rendah hati** = Manusia akan mengutamankan orang lain, jika kita hanya ingin enak sendiri itu akan membuat kita menjadi sombong, kalau binatang tidak mungkin memiliki rasa rendah hati, tidak mungkin bebek mendahului bebek lain yang lebih tua
+- **Benar dan salah** = Manusia memiliki rasa nyaman dengan kebenaran dan tidak nyaman dengan yang salah. Memang kita manusia kadang kadang salah tapi jangan sampe hilang rasa bersalah. Jangan memaklumi hal yang salah supaya kita tetap memiliki rasa bersalah
 
 Jika ada yang kurang dari unsur unsur ini di dalam diri kita, maka kita harus langsung muhasabah diri kita, jika manusia sudah tidak memiliki unsur unsur ini pasti peradaban manusia akan musnah
 
@@ -62,8 +64,8 @@ Jika ada yang kurang dari unsur unsur ini di dalam diri kita, maka kita harus la
 
 Kunci dari kebaikan kata Mengzi adalah hati. Dan hati memiliki 2 fungsi yaitu:
 
-* **Hati yang peka** = Membuat manusia mempunyai rasa simpati dan ****bela rasa terhadap penderitaan orang lain. Hati yang peka ini juga menjadi landasan pengembangan masyarakat. Masyarakat yang beradab tidak hanya bergantung pada sistem politik dan hukum, tetapi juga pada kualitas hati manusia **seperti** ketika kita melihat oranga yang kesusahan, lalu kita memiliki rasa kasihan
-* **Hati yang menalar** = Hati yang menalar berarti hati yang reflektif. Hati yang reflektif mampu mengantar orang yang menyadari dan masuk ke dalam kodratnya sebagai manusia, Refleksi itu membuat manusia mampu memilah dan memilih yang baik dari yang jahat. Karena itu, kehancuran seseorang atau suatu masyarakat bisa terjadi kerena kurang merefleksi diri **seperti** ketika kita sudah merasa kasian kepada orang lain dan kita inggin membantu nah membantu nya itu adalah fungsi hati yang menalar
+- **Hati yang peka** = Membuat manusia mempunyai rasa simpati dan \***\*bela rasa terhadap penderitaan orang lain. Hati yang peka ini juga menjadi landasan pengembangan masyarakat. Masyarakat yang beradab tidak hanya bergantung pada sistem politik dan hukum, tetapi juga pada kualitas hati manusia **seperti\*\* ketika kita melihat oranga yang kesusahan, lalu kita memiliki rasa kasihan
+- **Hati yang menalar** = Hati yang menalar berarti hati yang reflektif. Hati yang reflektif mampu mengantar orang yang menyadari dan masuk ke dalam kodratnya sebagai manusia, Refleksi itu membuat manusia mampu memilah dan memilih yang baik dari yang jahat. Karena itu, kehancuran seseorang atau suatu masyarakat bisa terjadi kerena kurang merefleksi diri **seperti** ketika kita sudah merasa kasian kepada orang lain dan kita inggin membantu nah membantu nya itu adalah fungsi hati yang menalar
 
 ## MENGENDALIKAN KODRAT EMOSIONAL & KEMAMPUAN RASIONAL
 
@@ -77,11 +79,11 @@ Bercita cita sejauh jangkawan mu saja, jangan dibuat susah nanti malah akan memb
 
 Jika manusia itu kodrat nya baik, lalu menagapa ada kejahatan? kata nya Mengzi ada beberapa yang menyebabkan kejahatan
 
-* Kejahatan terjadi karena pengaruh lingkungan social **seperti** masa kecil Mengzi, jika dia tingal di deket kuburan maka mental nya nanti akan sedih terus karena selalu melihat orang yang sedang sedih karena ditingal orang yang mereka sayang, begitu pun ketika Mengzi tinggal di pasar maka mental nya akan menjadi mental penjual
-* Kejahatan terjadi karena orang menyangkal atau menolak kebaikan kodrat kebaikan yang ada di dalam dirinya karena mereka memandang diri terlalu negatif dan tanpa beharga, tak akan peduli dengan kebaikan **seperti** saya bohong, lalu saya menyangkal itu, saya beralasan orang lain biasa berbohong dan tidak ada apapun yang terjadi, lalu saya berkata dalam hati "yaudah lah bohong aja, toh aku berbohong tidak pernah ketahuan juga"
-* Kurang merefleksi diri. Semakin seseorang kurang merefleksi diri, semakin ia tidak mengenal kebaikan yang ada dalam dirinya ****
+- Kejahatan terjadi karena pengaruh lingkungan social **seperti** masa kecil Mengzi, jika dia tingal di deket kuburan maka mental nya nanti akan sedih terus karena selalu melihat orang yang sedang sedih karena ditingal orang yang mereka sayang, begitu pun ketika Mengzi tinggal di pasar maka mental nya akan menjadi mental penjual
+- Kejahatan terjadi karena orang menyangkal atau menolak kebaikan kodrat kebaikan yang ada di dalam dirinya karena mereka memandang diri terlalu negatif dan tanpa beharga, tak akan peduli dengan kebaikan **seperti** saya bohong, lalu saya menyangkal itu, saya beralasan orang lain biasa berbohong dan tidak ada apapun yang terjadi, lalu saya berkata dalam hati "yaudah lah bohong aja, toh aku berbohong tidak pernah ketahuan juga"
+- Kurang merefleksi diri. Semakin seseorang kurang merefleksi diri, semakin ia tidak mengenal kebaikan yang ada dalam dirinya \*\*\*\*
 
-***
+---
 
 # PEMERINTAHAN
 
@@ -91,8 +93,8 @@ Mengzi sering melakukan pembicaraan dengan para Raja atau penguasa pada masa itu
 
 Menurut Mengzi pemerintahan di bagi menjadi 2 yaitu
 
-* Pemerintahan yang dapat merebut hati rakyat, pemerintah yang pertama bisa dibangun apabila raja dipilih oleh rakyat
-* Pemerintah yang diperoleh melalui jalan kekerasan. Cenderung ke sistem diktator, yang memerintah melalui tekanan-tekanan yang membatasi kebebasan dan gerak hidup masyarakat (dahulu untuk merebut kekuasaan bisa dilakukan dengan cara merebutnya dengan kekerasan)
+- Pemerintahan yang dapat merebut hati rakyat, pemerintah yang pertama bisa dibangun apabila raja dipilih oleh rakyat
+- Pemerintah yang diperoleh melalui jalan kekerasan. Cenderung ke sistem diktator, yang memerintah melalui tekanan-tekanan yang membatasi kebebasan dan gerak hidup masyarakat (dahulu untuk merebut kekuasaan bisa dilakukan dengan cara merebutnya dengan kekerasan)
 
 ## PEMERINTAHAN UNTUK RAKYAT
 
@@ -110,13 +112,13 @@ Seseorang Raja atau Gubernur harus membiarkan dorongan-dorongan kemanusiaan beke
 
 Beberapa prinsip-prinsip pengelolaan negara yang baik menurut Mengzi
 
-* Memandang semua orang setara dalam hukum, hak-hak social dan politik
-* Negara mesti dibangun berdasarkan tiga unsur sesuai hirarkinya: rakyat (paling penting), undang-undang (penting), penguasa (kurang penting)
-* Pengangakatan pegawai dan pemberian hukuman terhadap seseorang tidak boleh hanya didasarkan pendapat pegawai pemerintahan melainkan atas permintaan rakyat
-* Pemerintah harus meningkatkan kesejahteraan rakyat dan raja harus mau berbagi kesenangan dengan rakyat
-* Hubungan penguasa dan rakyat tidak boleh sepihak, harus bersifat timbal balik
-* Ada hak menentang penguasa yang tidak adil, zalim, dan menyengsarakan rakyat
-* Pemerintahan yang baik: mengemban amanat rakyat, memperhitungkan suara rakyat dan menyelaraskan diri dengan kodrat manusia yang baik
+- Memandang semua orang setara dalam hukum, hak-hak social dan politik
+- Negara mesti dibangun berdasarkan tiga unsur sesuai hirarkinya: rakyat (paling penting), undang-undang (penting), penguasa (kurang penting)
+- Pengangakatan pegawai dan pemberian hukuman terhadap seseorang tidak boleh hanya didasarkan pendapat pegawai pemerintahan melainkan atas permintaan rakyat
+- Pemerintah harus meningkatkan kesejahteraan rakyat dan raja harus mau berbagi kesenangan dengan rakyat
+- Hubungan penguasa dan rakyat tidak boleh sepihak, harus bersifat timbal balik
+- Ada hak menentang penguasa yang tidak adil, zalim, dan menyengsarakan rakyat
+- Pemerintahan yang baik: mengemban amanat rakyat, memperhitungkan suara rakyat dan menyelaraskan diri dengan kodrat manusia yang baik
 
 ## MEMANG GAMPANG JADI PEMIMPIN?
 
@@ -126,12 +128,12 @@ Menurut Mengzi, memerintahan negara adalah suatu hal yang sederhana, yang menjad
 
 Sebuah pemerintahan yang baik: memulai kebijakannya dengan mengukur kembali tahan-tanah yang dikuasai dan menetapkan lahan-lahan pertanian dengan baik, pembagian tanah secara adil dan rata
 
-* Sebidang tahan yang luas dibagi menjadi sembilan petak. Masing-Masing dari delapan petak diberikan kepada sebuah keluarga untuk digarap, sedangkan satu petak lagi digarap bersama-sama. Hasil dari petak yang kesembilan diserahkan kepada negara sebagai pajak yang harus dibayar. Sementara delapan keluarga yang mengerjakan delapan petak tanah harus merupakan persekuruan dengan ikatan yang erat dan saling membantu
-* Masing-masing petani menanam pohon surta agar mereka dapat memilihara ulat sutra, serta memelihari lima ekor ayam ternak dan dua ekor babi, mengajurkan pengembangan sektor perikanan dan pemeliharaan hutan.
+- Sebidang tahan yang luas dibagi menjadi sembilan petak. Masing-Masing dari delapan petak diberikan kepada sebuah keluarga untuk digarap, sedangkan satu petak lagi digarap bersama-sama. Hasil dari petak yang kesembilan diserahkan kepada negara sebagai pajak yang harus dibayar. Sementara delapan keluarga yang mengerjakan delapan petak tanah harus merupakan persekuruan dengan ikatan yang erat dan saling membantu
+- Masing-masing petani menanam pohon surta agar mereka dapat memilihara ulat sutra, serta memelihari lima ekor ayam ternak dan dua ekor babi, mengajurkan pengembangan sektor perikanan dan pemeliharaan hutan.
 
 Ekonomi berkaitan dengan etika. Rakyat yang Lapar menurutnya tidak akan dapat diharapkan menjunjung etika dan moral. Orang ketika lapar tidak berfikir dengan baik apalagi menjunjung etika, yang mereka pikirkan hanyalah bagaimana mereka dapat memenuhi kebutuhan nya akan makanan
 
-***
+---
 
 # PENDIDIKAN
 
@@ -139,22 +141,22 @@ Pendidikan adalah bagian sangat penting dalam satu negara, karena berhubungan de
 
 ## TUJUAN PENDIDIKAN
 
-* Memelihara kodrat bawaan manusia yang pada dasarnya baik
-* Memupuk nilai-nilai moral.
-* Membuat generasi muda cerdas secara intelektual dan menguasai ilmu pengetahuan serta berbagai kecakapan (profesi)
-* Melahirkan manusia mulia/agung: seseorang tidak kehilangan hati kenak-kanaknya sekalipun ia telah beranjak tua. Dia bertindak berdasarkan pertimbangan-pertimbangan moral dan aoa yang dilakukannya selalu berkaitan dengan watak dan kepribadiannya sendiri, bukan atas dasar pertimbangan untung rugi dan atas desakan dari luar
+- Memelihara kodrat bawaan manusia yang pada dasarnya baik
+- Memupuk nilai-nilai moral.
+- Membuat generasi muda cerdas secara intelektual dan menguasai ilmu pengetahuan serta berbagai kecakapan (profesi)
+- Melahirkan manusia mulia/agung: seseorang tidak kehilangan hati kenak-kanaknya sekalipun ia telah beranjak tua. Dia bertindak berdasarkan pertimbangan-pertimbangan moral dan aoa yang dilakukannya selalu berkaitan dengan watak dan kepribadiannya sendiri, bukan atas dasar pertimbangan untung rugi dan atas desakan dari luar
 
 ## PENDIDIKAN UNTUK PERBAIKAN MORAL
 
-* Melestarikan kodrat kebaikan dan mengendalikan hasratnya,
-* Mencarinya dalam diri sendiri
-  * misalnya kepaa seseorang yang tetap ingin menyendiri walaupun kita telah memperlakukannya dengan cinta. Kita bertanya pada diri sendiri, apakah kita sungguh murah hati dalam mencintainya. Jika seorang pemimpin melihat bawahannya tidak taat, dia perlu bertanya apakah dia pemimpin yang bijaksana. Demikian pula ketika menghadapi kegagalan
-* Menyesali dan memperbaiki cara
-* Mencari kualitas yang hilang
-* Mengembalikan kodrat kebangsawanan jiwa
-* Tegas dalam menyelesaikan
+- Melestarikan kodrat kebaikan dan mengendalikan hasratnya,
+- Mencarinya dalam diri sendiri
+  - misalnya kepaa seseorang yang tetap ingin menyendiri walaupun kita telah memperlakukannya dengan cinta. Kita bertanya pada diri sendiri, apakah kita sungguh murah hati dalam mencintainya. Jika seorang pemimpin melihat bawahannya tidak taat, dia perlu bertanya apakah dia pemimpin yang bijaksana. Demikian pula ketika menghadapi kegagalan
+- Menyesali dan memperbaiki cara
+- Mencari kualitas yang hilang
+- Mengembalikan kodrat kebangsawanan jiwa
+- Tegas dalam menyelesaikan
 
-***
+---
 
 # PEPERANGAN
 
