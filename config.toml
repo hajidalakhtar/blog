@@ -1,8 +1,8 @@
 baseURL = "https://blog.joway.io/"
 languageCode = "en-us"
-title = "Joway's Blog"
+title = "Berfilsafat"
 theme = "yinyang"
-DefaultContentLanguage = "cn"
+DefaultContentLanguage = "en"
 
 [markup]
   [markup.goldmark]
@@ -15,7 +15,7 @@ DefaultContentLanguage = "cn"
     tabWidth = 2
 
 [author]
-  name = "Joway"
+  name = "Hajidalakhtar"
   homepage = "https://joway.io/"
 
 [languages]
@@ -30,7 +30,7 @@ DefaultContentLanguage = "cn"
 
 [params]
 mainSections = ["posts"]
-headTitle = "Joway Wang"
+headTitle = "Berfilsafat"
 disqus = "joway" # disqus account name
 extraHead = '<script async src="https://www.googletagmanager.com/gtag/js?id=UA-xxx"></script>'
 [[params.socials]]
