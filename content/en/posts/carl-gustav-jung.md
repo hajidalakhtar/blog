@@ -1,7 +1,6 @@
 +++
 categories = []
 date = 2021-02-19T17:00:00Z
-draft = true
 linktitle = "kemanusiaan-carl"
 source = ["https://id.wikipedia.org/wiki/Carl_Gustav_Jung", "https://www.youtube.com/watch?v=wPJmc-En-rQ"]
 title = "Carl Gustav Jung "
