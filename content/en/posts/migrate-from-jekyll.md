@@ -4,7 +4,7 @@ linktitle: Migrating from Jekyll
 prev: "/tutorials/mathjax"
 title: MENGZI
 categories:
-- Mengzi
+- CHINESE FILOSOFI
 source:
 - https://vercel.com/hajidalakhtar/berfilsafat/deployments
 - https://vercel.com/hajidalakhtar/berfilsafat/deployments
