@@ -1,8 +1,8 @@
 ---
-date: 2014-03-10
+date: 2014-03-09T17:00:00+00:00
 linktitle: Migrating from Jekyll
 prev: "/tutorials/mathjax"
-title: Migrate to Hugo from Jekyll
+title: MENGZI
 categories:
 - Mengzi
 weight: "10"
@@ -13,10 +13,6 @@ menu:
 
 ---
 Mensius atau Mengzi (sekitar 372 SM - 289 SM) adalah seorang filsuf Tiongkok. Ia adalah penerus ajaran Khonghucu/Kongzi yang hidup sekitar 300 tahun setelah wafatnya Khonghucu. Ia telah banyak belajar dari cucu Khonghucu yang bernama Zi Si/Cu Su yang membukukan Kitab Zhong Yong/Tengah Sempurna salah satu bagian dari Kitab Shi Shu yang merupakan tuntunan Keimanan bagi para penganut agama 'Ru' atau Khonghucu.
-
-***
-
-# DAFTAR ISI
 
 ***
 
