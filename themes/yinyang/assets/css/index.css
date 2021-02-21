@@ -272,4 +272,9 @@ a:hover {
   .posts-category {
     display: none;
   }
+
+  .site-date-catalog {
+    font-size: 18px;
+  }
+
 }

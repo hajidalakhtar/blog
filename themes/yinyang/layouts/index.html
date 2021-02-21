@@ -12,15 +12,15 @@
     {{ if eq "categories" $taxonomyname }}
       {{ range $key, $value := $taxonomy }}
           <section>
-            <h1 class="site-date-catalog"> {{ replaceRE "(-)" " " $key}}</h1>
+            <h1 class="site-date-catalog" style="text-transform: uppercase;"> {{ replaceRE "(-)" " " $key}}</h1>
 
                   {{ range $value.Pages }}
 
             <div class="row posts-line">
-              <div class="posts-date col-xs-2">
+              <div class="posts-date col-xs-3">
                 <time datetime="{{ .Date.Format "2006-01-02 15:04:05 MST" }}">{{ .Date.Format "Jan 02"}}</time>
               </div>
-              <div class="posts-title col-xs-10">
+              <div class="posts-title col-xs-9">
                 <div class="row">
                   <div class="col-xs-12">
                     <a href="{{ .RelPermalink }}">{{ .Title }}</a>
