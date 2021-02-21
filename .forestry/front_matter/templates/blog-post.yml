@@ -22,7 +22,3 @@ fields:
   type: tag_list
   default: []
   label: categories
-pages:
-- content/en/posts/carl-gustav-jung.md
-- content/en/posts/mengzi.md
-- content/en/posts/sigismund-schlomo-freud.md
