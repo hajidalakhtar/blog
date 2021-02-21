@@ -2,7 +2,7 @@ baseURL = "https://blog.joway.io/"
 languageCode = "en-us"
 title = "Berfilsafat"
 theme = "yinyang"
-DefaultContentLanguage = "filsafat"
+DefaultContentLanguage = "en"
 
 [markup]
   [markup.goldmark]
