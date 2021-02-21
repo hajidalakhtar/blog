@@ -22,11 +22,7 @@
         <div class="post-content markdown-body">
           {{ .Site.Params.postHeaderContent | safeHTML }}
           {{ .Content }}
-
-          <h3 style="margin-top:3%">Source</h3>
-          <ul>
-            <li>asdasdasd</li>
-          </ul>
+          
         </div>
 
         <div class=" middle-xs">
@@ -54,10 +50,6 @@
           <div style="height: 50px;"></div>
           {{ if .Site.Params.disqus }}
           <div class="post-comments">
-<<<<<<< HEAD
-            <!-- {{ partial "disqus.html" . }} -->
-=======
->>>>>>> e237dcdd54f76617448895f85352094971e46cdd
           </div>
           {{ end }}
         {{ end }}
