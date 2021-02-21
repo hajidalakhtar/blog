@@ -276,5 +276,9 @@ a:hover {
   .site-date-catalog {
     font-size: 18px;
   }
+  .header-line{
+    padding-top:5px;
+    text-align: center;
+  }
 
 }
