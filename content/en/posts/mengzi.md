@@ -1,3 +1,4 @@
+<<<<<<< HEAD:content/en/posts/migrate-from-jekyll.md
 ---
 date: 2014-03-09T17:00:00+00:00
 linktitle: Migrating from Jekyll
@@ -12,6 +13,18 @@ menu:
     weight: 10
 ---
 
+=======
++++
+categories = ["CHINESE FILOSOFI"]
+date = 2021-02-19T17:00:00Z
+linktitle = "mengzi"
+prev = "treasdasd"
+source = ["https://www.youtube.com/watch?v=J1wgTZ-pVR8", "https://www.youtube.com/watch?v=qvmxbDomk90", "https://id.wikipedia.org/wiki/Mengzi"]
+title = "Mengzi"
+weight = "10"
+
++++
+>>>>>>> e237dcdd54f76617448895f85352094971e46cdd:content/en/posts/mengzi.md
 Mensius atau Mengzi (sekitar 372 SM - 289 SM) adalah seorang filsuf Tiongkok. Ia adalah penerus ajaran Khonghucu/Kongzi yang hidup sekitar 300 tahun setelah wafatnya Khonghucu. Ia telah banyak belajar dari cucu Khonghucu yang bernama Zi Si/Cu Su yang membukukan Kitab Zhong Yong/Tengah Sempurna salah satu bagian dari Kitab Shi Shu yang merupakan tuntunan Keimanan bagi para penganut agama 'Ru' atau Khonghucu.
 
 ---

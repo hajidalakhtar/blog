@@ -9,9 +9,23 @@
         <div class="site-header">
           {{ partial "header.html" . }}
         </div>
+<<<<<<< HEAD
       
         <h1 class="post-title" style="margin-bottom: 0px;" >{{ .Title }}</h1>
         <div class="post-content markdown-body" style="margin-top: 0px;">
+=======
+         <header class="post-header">
+        </header>
+       {{ range .Params.categories }}
+              <a href="{{ site.LanguagePrefix }}/categories/{{ lower . }}/" >
+                {{ . }}
+              </a>
+            {{ end }}
+        <h1 style="margin-bottom: 0px; margin-top:0px ">{{ .Title }}</h1>
+         
+        <span></span>
+        <div class="post-content markdown-body">
+>>>>>>> e237dcdd54f76617448895f85352094971e46cdd
           {{ .Site.Params.postHeaderContent | safeHTML }}
           {{ .Content }}
 
@@ -21,16 +35,14 @@
           </ul>
         </div>
 
-        <div class="row middle-xs">
-          <div class="col-xs-12">
-            {{ range .Params.categories }}
-            <div class="post-category">
-              <a href="{{ site.LanguagePrefix }}/categories/{{ lower . }}/">
-                {{ . }}
-              </a>
-            </div>
+        <div class=" middle-xs">
+
+          <h3>Source</h3>
+          <ul>
+            {{ range .Params.source }}
+                      <li><a href=" {{ . }}" target="_blank"  style="word-wrap:break-word;"> {{ . }}</a></li>
             {{ end }}
-          </div>
+          </ul>
         </div>
         {{ if in .Site.Params.mainSections .Type }}
           <div class="row">
@@ -48,7 +60,10 @@
           <div style="height: 50px;"></div>
           {{ if .Site.Params.disqus }}
           <div class="post-comments">
+<<<<<<< HEAD
             <!-- {{ partial "disqus.html" . }} -->
+=======
+>>>>>>> e237dcdd54f76617448895f85352094971e46cdd
           </div>
           {{ end }}
         {{ end }}

@@ -1,0 +1,28 @@
+---
+label: Blog Post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: linktitle
+  label: linktitle
+- name: source
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: source
+- name: categories
+  type: tag_list
+  default: []
+  label: categories
+pages:
+- content/en/posts/carl-gustav-jung.md
+- content/en/posts/mengzi.md
+- content/en/posts/sigismund-schlomo-freud.md

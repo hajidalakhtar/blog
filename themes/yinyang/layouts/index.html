@@ -12,8 +12,12 @@
     {{ if eq "categories" $taxonomyname }}
       {{ range $key, $value := $taxonomy }}
           <section>
+<<<<<<< HEAD
             <h1 class="site-date-catalog" style="text-transform: uppercase;"> {{ replaceRE "(-)" " " $key}}</h1>
 
+=======
+                   <h1 class="site-date-catalog" style="text-transform: uppercase;"> {{ replaceRE "(-)" " " $key}}</h1>
+>>>>>>> e237dcdd54f76617448895f85352094971e46cdd
                   {{ range $value.Pages }}
 
             <div class="row posts-line">
