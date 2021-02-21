@@ -9,11 +9,6 @@
         <div class="site-header">
           {{ partial "header.html" . }}
         </div>
-<<<<<<< HEAD
-      
-        <h1 class="post-title" style="margin-bottom: 0px;" >{{ .Title }}</h1>
-        <div class="post-content markdown-body" style="margin-top: 0px;">
-=======
          <header class="post-header">
         </header>
        {{ range .Params.categories }}
@@ -21,11 +16,10 @@
                 {{ . }}
               </a>
             {{ end }}
-        <h1 style="margin-bottom: 0px; margin-top:0px ">{{ .Title }}</h1>
+        <h1 style="margin-bottom: 0px; margin-top:0px;font-size:30px">{{ .Title }}</h1>
          
         <span></span>
         <div class="post-content markdown-body">
->>>>>>> e237dcdd54f76617448895f85352094971e46cdd
           {{ .Site.Params.postHeaderContent | safeHTML }}
           {{ .Content }}
 
