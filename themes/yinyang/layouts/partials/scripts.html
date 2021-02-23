@@ -8,9 +8,19 @@
 </script>
 {{ end }}
 <script>
-  // var posts = document.getElementById('posts-list');
-  // posts && quicklink({
-    // el: posts,
-    // priority: true,
-  // });
+  if('serviceWorker' in navigator) {
+      navigator.serviceWorker
+          .register('/sw.js', { scope: '/' })
+          .then(function(registration) {
+              console.log('Service Worker Registered');
+          });
+
+      navigator.serviceWorker
+          .ready
+          .then(function(registration) {
+              //console.log('Service Worker Ready');
+          });
+  
+          
+        }
 </script>
