@@ -1,35 +1,32 @@
-const CACHE_VERSION = 1;
+const CACHE_VERSION = 2.3;
 
 const BASE_CACHE_FILES = [
     '/js/lazyload.min.js',
-    '/search/index.json',
     '/manifest.json',
-    '/favicon.png',
+    // '/favicon.png',
     '/images/logo.png',
-    '/techformist-logo-no-text.png',
-    '/assets/css/index.css',
-    '/assets/css/flexboxgrid-6.3.1.min.css',
+    // '/techformist-logo-no-text.png',
+    '../assets/css/index.css',
+    '../assets/css/flexboxgrid-6.3.1.min.css',
 ];
 
 const OFFLINE_CACHE_FILES = [
      '/js/lazyload.min.js',
-    '/search/index.json',
     '/manifest.json',
-    '/favicon.png',
+    // '/favicon.png',
     '/images/logo.png',
-    '/techformist-logo-no-text.png',
-    '/assets/css/index.css',
-    '/assets/css/flexboxgrid-6.3.1.min.css',
+    // '/techformist-logo-no-text.png',
+    '../assets/css/index.css',
+    '../assets/css/flexboxgrid-6.3.1.min.css',
 ];
 
 const NOT_FOUND_CACHE_FILES = [
     
-    '/404.html',
+    '../layouts/404.html',
 ];
 
 const OFFLINE_PAGE = '/offline/index.html';
 const NOT_FOUND_PAGE = '/404.html';
-
 const CACHE_VERSIONS = {
     assets: 'assets-v' + CACHE_VERSION,
     content: 'content-v' + CACHE_VERSION,
@@ -37,7 +34,6 @@ const CACHE_VERSIONS = {
     notFound: '404-v' + CACHE_VERSION,
 };
 
-// Define MAX_TTL's in SECONDS for specific file extensions
 const MAX_TTL = {
     '/': 3600,
     html: 3600,
@@ -46,21 +42,10 @@ const MAX_TTL = {
     css: 86400,
 };
 
-const CACHE_BLACKLIST = [
-    (str) => {
-       return !str.startsWith('http://localhost') ;
-    },
-];
-
 const SUPPORTED_METHODS = [
     'GET',
 ];
 
-/**
- * isBlackListed
- * @param {string} url
- * @returns {boolean}
- */
 function isBlacklisted(url) {
     return (CACHE_BLACKLIST.length > 0) ? !CACHE_BLACKLIST.filter((rule) => {
         if(typeof rule === 'function') {
@@ -71,20 +56,11 @@ function isBlacklisted(url) {
     }).length : false
 }
 
-/**
- * getFileExtension
- * @param {string} url
- * @returns {string}
- */
 function getFileExtension(url) {
     let extension = url.split('.').reverse()[0].split('?')[0];
     return (extension.endsWith('/')) ? '/' : extension;
 }
 
-/**
- * getTTL
- * @param {string} url
- */
 function getTTL(url) {
     if (typeof url === 'string') {
         let extension = getFileExtension(url);
@@ -98,39 +74,26 @@ function getTTL(url) {
     }
 }
 
-/**
- * installServiceWorker
- * @returns {Promise}
- */
 function installServiceWorker() {
     return Promise.all(
-        [
-            caches.open(CACHE_VERSIONS.assets)
-                .then(
-                    (cache) => {
-                        return cache.addAll(BASE_CACHE_FILES);
-                    }
-                ),
-            caches.open(CACHE_VERSIONS.offline)
-                .then(
-                    (cache) => {
-                        return cache.addAll(OFFLINE_CACHE_FILES);
-                    }
-                ),
-            caches.open(CACHE_VERSIONS.notFound)
-                .then(
-                    (cache) => {
-                        return cache.addAll(NOT_FOUND_CACHE_FILES);
-                    }
-                )
-        ]
-    );
+        [caches.open(CACHE_VERSIONS.assets).then((cache) => {
+            return cache.addAll(BASE_CACHE_FILES);
+        }
+            , err => console.error(`Error with ${CACHE_VERSIONS.assets}`, err)),
+        caches.open(CACHE_VERSIONS.offline).then((cache) => {
+            return cache.addAll(OFFLINE_CACHE_FILES);
+        }
+            , err => console.error(`Error with ${CACHE_VERSIONS.offline}`, err)),
+        caches.open(CACHE_VERSIONS.notFound).then((cache) => {
+            return cache.addAll(NOT_FOUND_CACHE_FILES);
+        }
+            , err => console.error(`Error with ${CACHE_VERSIONS.notFound}`, err))]
+    )
+        .then(() => {
+            return self.skipWaiting();
+        }, err => console.error("Error with installation: ", err));
 }
 
-/**
- * cleanupLegacyCache
- * @returns {Promise}
- */
 function cleanupLegacyCache() {
 
     let currentCaches = Object.keys(CACHE_VERSIONS)

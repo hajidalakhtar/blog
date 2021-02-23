@@ -1,5 +1,5 @@
 +++
-categories = ["KEMANUSIAAN"]
+categories = ["PSIKOLOGI"]
 date = 2021-02-19T17:00:00Z
 linktitle = "kemanusiaan-carl"
 source = ["https://id.wikipedia.org/wiki/Carl_Gustav_Jung", "https://www.youtube.com/watch?v=wPJmc-En-rQ"]
@@ -92,7 +92,7 @@ biasa nya berisi pengalaman pengalaman yang terlalu lemah untuk menciptakan kesa
 
 Dalam ketidaksadaran pribadi terdapat kompleks kompleks yang merupakan kelompok pikiran-pikiran atau ingatan-ingatan
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/73252b0a-ab08-4bea-819f-a623304c24ec/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/73252b0a-ab08-4bea-819f-a623304c24ec/Untitled.png)
+![](/uploads/untitled-2.png)
 
 komplex itu kelompok gagasan, persepsi dan pikiran yang membentuk kesadaran kita **contoh** Pandangan mu tentang ibu. kamu ga sadar kalo pemahaman mu tentang ibu terdiri dari pemahaman pemahaman yang kamu dapatkan dalam kehidupan. bisa sumber nya dari kamu melihat ibu mu sendiri, ibu nya teman mu, pengalaman mu menjadi ibu dan ini yang kemudian menyusun jadi satu dan membuat pandangan mu tentang ibu
 
@@ -221,11 +221,9 @@ Penafsiran mimpi
 
 Sinkronisitas adalah realitas yang bisa kamu pahami yang hanya bisa di pahami orang yang mau memahami
 
-Sinktonisitas adalah pengalaman dari dua atau lebih pristiwa bermakna yang saling terkait, dimana sebenernya mereka tidak mungkin berkaitan jika dilihat secara sebabakibat. Kita melihat sebagai sebuah pristiwa "kebetulan bermaksa": Fenomena ini adalah "kedipan mata" dari alam semesta, tanda intuisi anda dan keterhubungan. Sinkronisitas tanpak menjadi jawaban Eksternal bagi kesadaran psikis internal. **Contoh__ ada mungkin memerlukan beberapa informasi tertentu dan seacra tidak terduga bertemu seseorang yang menyediakan hal hal yang persis anda butuhkan**.**
+Sinktonisitas adalah pengalaman dari dua atau lebih pristiwa bermakna yang saling terkait, dimana sebenernya mereka tidak mungkin berkaitan jika dilihat secara sebabakibat. Kita melihat sebagai sebuah pristiwa "kebetulan bermaksa": Fenomena ini adalah "kedipan mata" dari alam semesta, tanda intuisi anda dan keterhubungan. Sinkronisitas tanpak menjadi jawaban Eksternal bagi kesadaran psikis internal. **Contoh** anda mungkin memerlukan beberapa informasi tertentu dan secara tidak terduga bertemu seseorang yang menyediakan hal hal yang persis anda butuhkan**.**
 
 Sinkronisitas adalah suatu momen saat kita dipertemukan dengan orang atau informasi melalui cara yang tidak bisa digambarkan melalui penjelasan yang bersifat inier. mereka menyebabkan kita berhenti dan berpikir. Istilah lain dari fenomena ini adalah Providence
-
-"Sinkronisitas adalah realitas yang sebenernya ada hanya bagi mereka yang memiliki mata untuk melihat — Carl Gustav Jung"
 
 > "Mikir itu susah makanya orang males mikir seneng nya mengakimi"
 

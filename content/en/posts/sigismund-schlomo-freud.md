@@ -1,5 +1,5 @@
 +++
-categories = ["KEMANUSIAAN"]
+categories = ["PSIKOLOGI"]
 date = 2021-02-19T17:00:00Z
 linktitle = "kemanusiaan-freud "
 prev = "asdas"
@@ -8,7 +8,7 @@ title = "Sigismund Schlomo Freud "
 weight = "asd"
 
 +++
-Freud dilahirkan sebagai Sigismund Schlomo Freud pada 6 Mei 1856 di Freiberg. Ayahnya, Jakob, adalah seorang pedagang wol berusia 40 tahun saat ia di lahirkan. Ayahnya sangat keras dan otoriter. Ketika sudah dewasa, ia mengingat masa kecilnya penuh dengan permusuhan terhadap ayahnya, ia merasa ayahnya superior pada saat ia berusia 2 tahun.
+Sigismund Schlomo Freud pada 6 Mei 1856 di Freiberg. Ayahnya, Jakob, adalah seorang pedagang wol berusia 40 tahun saat ia di lahirkan. Ayahnya sangat keras dan otoriter. Ketika sudah dewasa, ia mengingat masa kecilnya penuh dengan permusuhan terhadap ayahnya, ia merasa ayahnya superior pada saat ia berusia 2 tahun.
 
 Sedangkan Ibu Freud, Amalia, berusia dua puluh tahun lebih muda dari suaminya saat Freud lahir. Ibunya langsing dan cantik, dan sangat melindungi dan mencintainya. Freud merasa sangat suka terhadap ibunya, dan adanya kelekatan seksual terhadap ibunya, suatu situasi yang akhirnya berkembang menjadi konsep Oedipus Complex.
 
@@ -31,7 +31,7 @@ Dari pernikahan tersebut, Amalia dan Jakob memiliki delapan anak dan Sigmund Fre
 
 Menurut Freud Kepribadian memiliki 3 Struktur yang sering bertolak belakang, kita harus bisa menyeimbangkan ke 3 hal ini
 
-[aws4_request&X-Amz-Date=20210220T170450Z&X-Amz-Expires=86400&X-Amz-Signature=6a0c06a62d1620a7eb65ed82b524f098932c1051ef5a19b1db0410eb32445559&X-Amz-SignedHeaders=host&response-content-disposition=filename ="Untitled.png"](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/73252b0a-ab08-4bea-819f-a623304c24ec/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5/20210220/us-west-2/s3/aws4_request&X-Amz-Date=20210220T170450Z&X-Amz-Expires=86400&X-Amz-Signature=6a0c06a62d1620a7eb65ed82b524f098932c1051ef5a19b1db0410eb32445559&X-Amz-SignedHeaders=host&response-content-disposition=filename ="Untitled.png" 'aws4_request&X-Amz-Date=20210220T170450Z&X-Amz-Expires=86400&X-Amz-Signature=6a0c06a62d1620a7eb65ed82b524f098932c1051ef5a19b1db0410eb32445559&X-Amz-SignedHeaders=host&response-content-disposition=filename ="Untitled.png"')
+![](/uploads/untitled.png)
 
 1. **ID** ( Aspek biologis ) adalah dorongan-dorongan instinktif dalam diri manusia, ID adalah tabiat hewani manusia. Bekerja berdasarkan **prinsip kenikmatan,** menghilangkan ketidaknikmatan dengan cara:
    * Refleksi dan reaksi reaksi otomatis (bersin, berkedip )
@@ -103,13 +103,13 @@ biasa nya ketika kita di tuduh hal yang buruk dalam dirikita secara tidak langsu
 * **Pre-Conciousness** (Pra sadar) = Semula disadari tapi kemudian tidak lagi dicermati ( mimpi, lamunan, salah ucap, mekanisme pertahanan diri )
 * **Conciousness** ( Sadar ) = pikiran,persepsi,perasaan,ingatan.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/50c46d90-2a89-49ae-a23f-f6e24939f913/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/50c46d90-2a89-49ae-a23f-f6e24939f913/Untitled.png)
+![](/uploads/untitled-1.png)
 
 Konsep dari teori Freud yang paling terkenal adalah tentang adanya alam bawah sadar yang mengendalikan sebagian besar perilaku. Selain itu, dia juga memberikan pernyataan bahwa perilaku manusia didasari pada hasrat seksualitas (eros) yang pada awalnya dirasakan oleh manusia semenjak kecil dari ibunya.
 
 Pengalaman seksual dari ibu seperti menyusui. Selanjutnya mengalami perkembangannya atau tersublimasi, hingga memunculkan berbagai perilaku lain yang disesuaikan dengan aturan norma masyarakat atau norma ayah. Freud menyejajarkan atau tidak menunggalkan insting seksual saja yang ada di dalam diri manusia, tetapi disandingkan dengan insting mati (Thanatos)
 
-Freud tertarik dan belajar **hipnotis** di Prancis, lalu menggunakannya untuk membantu penderita penyakit mental. Freud kemudian meninggalkan hipnotis setelah ia berhasil menggunakan metode baru untuk menyembuhkan penderita tekanan Psikologis yaitu **asosiasi bebas__ dan **analisis mimpi__. Dasar terciptanya metode tersebut adalah dari konsep alam bawah sadar. ****
+Freud tertarik dan belajar **hipnotis** di Prancis, lalu menggunakannya untuk membantu penderita penyakit mental. Freud kemudian meninggalkan hipnotis setelah ia berhasil menggunakan metode baru untuk menyembuhkan penderita tekanan Psikologis yaitu **asosiasi bebas** dan **analisis mimpi** Dasar terciptanya metode tersebut adalah dari konsep alam bawah sadar.
 
 * **Asosiasi bebas adalah** metode yang digunakan untuk mengungkap masalah-masalah yang ditekan oleh diri, seseorang atau lingkungan tetapi tanpa di sadari terus mendorong keluar sehingga menimbulkan permasalahan.
 * **Analisis Mimpi**, digunakan oleh Freud dari pemahamannya bahwa mimpi merupakan pesan alam bawah sadar yang abstrak terhadap alam sadar, pesan-pesan ini berisi keinginan, ketakutan dan berbagai macam aktivitas emosi lain
