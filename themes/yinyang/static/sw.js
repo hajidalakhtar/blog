@@ -6,8 +6,8 @@ const BASE_CACHE_FILES = [
     // '/favicon.png',
     '/images/logo.png',
     // '/techformist-logo-no-text.png',
-    '../assets/css/index.css',
-    '../assets/css/flexboxgrid-6.3.1.min.css',
+    '/../assets/css/index.css',
+    '/../assets/css/flexboxgrid-6.3.1.min.css',
 ];
 
 const OFFLINE_CACHE_FILES = [
@@ -16,8 +16,8 @@ const OFFLINE_CACHE_FILES = [
     // '/favicon.png',
     '/images/logo.png',
     // '/techformist-logo-no-text.png',
-    '../assets/css/index.css',
-    '../assets/css/flexboxgrid-6.3.1.min.css',
+    '/../assets/css/index.css',
+    '/../assets/css/flexboxgrid-6.3.1.min.css',
 ];
 
 const NOT_FOUND_CACHE_FILES = [
@@ -76,22 +76,27 @@ function getTTL(url) {
 
 function installServiceWorker() {
     return Promise.all(
-        [caches.open(CACHE_VERSIONS.assets).then((cache) => {
-            return cache.addAll(BASE_CACHE_FILES);
-        }
-            , err => console.error(`Error with ${CACHE_VERSIONS.assets}`, err)),
-        caches.open(CACHE_VERSIONS.offline).then((cache) => {
-            return cache.addAll(OFFLINE_CACHE_FILES);
-        }
-            , err => console.error(`Error with ${CACHE_VERSIONS.offline}`, err)),
-        caches.open(CACHE_VERSIONS.notFound).then((cache) => {
-            return cache.addAll(NOT_FOUND_CACHE_FILES);
-        }
-            , err => console.error(`Error with ${CACHE_VERSIONS.notFound}`, err))]
-    )
-        .then(() => {
-            return self.skipWaiting();
-        }, err => console.error("Error with installation: ", err));
+        [
+            caches.open(CACHE_VERSIONS.assets)
+                .then(
+                    (cache) => {
+                        return cache.addAll(BASE_CACHE_FILES);
+                    }
+                ),
+            caches.open(CACHE_VERSIONS.offline)
+                .then(
+                    (cache) => {
+                        return cache.addAll(OFFLINE_CACHE_FILES);
+                    }
+                ),
+            caches.open(CACHE_VERSIONS.notFound)
+                .then(
+                    (cache) => {
+                        return cache.addAll(NOT_FOUND_CACHE_FILES);
+                    }
+                )
+        ]
+    );
 }
 
 function cleanupLegacyCache() {
