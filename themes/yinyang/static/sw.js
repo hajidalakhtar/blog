@@ -21,7 +21,6 @@ const OFFLINE_CACHE_FILES = [
 ];
 
 const NOT_FOUND_CACHE_FILES = [
-    
     '../layouts/404.html',
 ];
 
@@ -33,7 +32,7 @@ const CACHE_VERSIONS = {
     offline: 'offline-v' + CACHE_VERSION,
     notFound: '404-v' + CACHE_VERSION,
 };
-
+// Define MAX_TTL's in SECONDS for specific file extensions
 const MAX_TTL = {
     '/': 3600,
     html: 3600,
@@ -42,10 +41,21 @@ const MAX_TTL = {
     css: 86400,
 };
 
+const CACHE_BLACKLIST = [
+    (str) => {
+       return !str.startsWith('http://localhost') ;
+    },
+];
+
 const SUPPORTED_METHODS = [
     'GET',
 ];
 
+/**
+ * isBlackListed
+ * @param {string} url
+ * @returns {boolean}
+ */
 function isBlacklisted(url) {
     return (CACHE_BLACKLIST.length > 0) ? !CACHE_BLACKLIST.filter((rule) => {
         if(typeof rule === 'function') {
@@ -56,11 +66,20 @@ function isBlacklisted(url) {
     }).length : false
 }
 
+/**
+ * getFileExtension
+ * @param {string} url
+ * @returns {string}
+ */
 function getFileExtension(url) {
     let extension = url.split('.').reverse()[0].split('?')[0];
     return (extension.endsWith('/')) ? '/' : extension;
 }
 
+/**
+ * getTTL
+ * @param {string} url
+ */
 function getTTL(url) {
     if (typeof url === 'string') {
         let extension = getFileExtension(url);
@@ -74,6 +93,10 @@ function getTTL(url) {
     }
 }
 
+/**
+ * installServiceWorker
+ * @returns {Promise}
+ */
 function installServiceWorker() {
     return Promise.all(
         [
@@ -99,6 +122,10 @@ function installServiceWorker() {
     );
 }
 
+/**
+ * cleanupLegacyCache
+ * @returns {Promise}
+ */
 function cleanupLegacyCache() {
 
     let currentCaches = Object.keys(CACHE_VERSIONS)
