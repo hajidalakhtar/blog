@@ -15,12 +15,12 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: content/filsafat
+  path: content/en
   label: Filsafat
   create: all
   match: "**/*"
 - type: directory
-  path: content/cognitive_bias
+  path: content/cn
   label: Cognitive Bias
   create: all
   match: "**/*"
