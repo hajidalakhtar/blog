@@ -1,0 +1,19 @@
+---
+label: Cognitive Bias
+hide_body: false
+fields:
+- type: list
+  name: categories
+  label: categories
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: linktitle
+  label: linktitle
+- type: list
+  name: source
+  label: source
+- type: text
+  name: title
+  label: title
