@@ -1,4 +1,4 @@
-const CACHE_VERSION = 2.3;
+const CACHE_VERSION = 1;
 
 const BASE_CACHE_FILES = [
     '/js/lazyload.min.js',
@@ -25,7 +25,7 @@ const NOT_FOUND_CACHE_FILES = [
 ];
 
 const OFFLINE_PAGE = '/offline/index.html';
-const NOT_FOUND_PAGE = '/404.html';
+const NOT_FOUND_PAGE = '../layouts/404.html';
 const CACHE_VERSIONS = {
     assets: 'assets-v' + CACHE_VERSION,
     content: 'content-v' + CACHE_VERSION,
@@ -101,19 +101,19 @@ function installServiceWorker() {
     return Promise.all(
         [
             caches.open(CACHE_VERSIONS.assets)
-                .then(
+                    .then(
                     (cache) => {
                         return cache.addAll(BASE_CACHE_FILES);
                     }
                 ),
             caches.open(CACHE_VERSIONS.offline)
-                .then(
+                    .then(
                     (cache) => {
                         return cache.addAll(OFFLINE_CACHE_FILES);
                     }
                 ),
             caches.open(CACHE_VERSIONS.notFound)
-                .then(
+                    .then(
                     (cache) => {
                         return cache.addAll(NOT_FOUND_CACHE_FILES);
                     }

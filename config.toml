@@ -1,8 +1,8 @@
 baseURL = "https://blog.joway.io/"
 languageCode = "en-us"
-title = "Berfilsafat"
+title = "Dunia Kertas | Sebuah informasi untuk anak muda"
 theme = "yinyang"
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "filsafat"
 
 [markup]
   [markup.goldmark]
@@ -18,19 +18,28 @@ DefaultContentLanguage = "en"
   name = "Hajid Al Akhtar"
   homepage = "https://hajid.tech/"
 
+staticDir = "static"
+
 [languages]
-  [languages.en]
-    contentDir = "content/en"
+  [languages.filsafat]
+    contentDir = "content/filsafat"
     languageName = "English"
     weight = 1
-  [languages.cn]
-    contentDir = "content/cn"
-    languageName = "Chinese"
+    
+  [languages.cognitive_bias]
+    contentDir = "content/cognitive_bias"
+    languageName = "English"
     weight = 2
+
+  [languages.page]
+    contentDir = "content/page"
+    languageName = "English"
+    weight = 3
+
 
 [params]
 mainSections = ["posts"]
-headTitle = "Berfilsafat"
+headTitle = "DUNIA KERTAS"
 disqus = "hajid_alakhtar" # disqus account name
 extraHead = '<script async src="https://www.googletagmanager.com/gtag/js?id=UA-xxx"></script>'
 [[params.socials]]
