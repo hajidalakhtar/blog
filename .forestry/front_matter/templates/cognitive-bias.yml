@@ -1,0 +1,23 @@
+---
+label: Cognitive Bias
+hide_body: false
+fields:
+- type: list
+  name: categories
+  label: categories
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: linktitle
+  label: linktitle
+- type: text
+  name: title
+  label: title
+- name: thumbnail
+  type: file
+  config:
+    maxSize: 64
+  label: thumbnail
+pages:
+- content/cn/posts/asdasdasd.md
