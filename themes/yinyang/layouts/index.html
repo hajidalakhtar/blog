@@ -46,15 +46,12 @@
 		<div class="card">
 			<a href="{{.RelPermalink}}">
 				<h3>{{ .Title }} </h3>
-      </a>
-
-
-
       <img{{ with .Params.featured_image }} src="{{ . }}"{{ end }} alt="{{ .Title }}" style="width: 100%">
-
+  </a>
       <!-- <div class="card-date">{{ .Date.Format "January 2006" }}</div> -->
 
       <div>{{.Summary}}</div>
+     
 		</div>
   </section>
   {{ end }}

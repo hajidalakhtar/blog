@@ -17,8 +17,12 @@
               </a>
             {{ end }}
         <h1 style="margin-bottom: 0px; margin-top:0px;font-size:30px">{{ .Title }}</h1>
-         
-        <span></span>
+        {{ if (isset .Params "featured_image") }}
+      <img{{ with .Params.featured_image }} src="{{ . }}"{{ end }} alt="{{ .Title }}" style="width: 100%;margin-top:20px">
+
+         {{else}}
+
+         {{end}}
         <div class="post-content markdown-body">
           {{ .Site.Params.postHeaderContent | safeHTML }}
           {{ .Content }}
