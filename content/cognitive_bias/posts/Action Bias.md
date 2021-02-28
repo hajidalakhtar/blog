@@ -8,10 +8,7 @@ source = ["https://shopee.co.id/Ihwal-Sesat-Pikir-dan-Cacat-Logika-i.240041305.5
 title = "Action Bias"
 
 +++
+
 Action bias adalah tindakan yang mengambarkan kecenderungan kita untuk lebih menyukai tindakan dari pada tidak bertindak sama sekali<!--more-->
 
 Action bias sering terjadi dalam situasi baru, sehingga orang tidak dapat mengukur ketepatan maupun efektivitas tindakan yang di ambil
-
-**CONTOH**
-
-"Asal sudah mengumpulkan makalah, maka mahasiswa akan diluluskan" tanpa melihat makalah tersebut sesuai atau tidak

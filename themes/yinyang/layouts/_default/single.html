@@ -26,8 +26,13 @@
         <div class="post-content markdown-body">
           {{ .Site.Params.postHeaderContent | safeHTML }}
           {{ .Content }}
-          
+          {{ if in .URL "cognitive_bias" }}
+          <h3 style="padding-bottom: 0px;margin-bottom:0px"><b> Contoh </b></h3>
+          <p style="margin-top:0px;padding-top:0px">  {{ .Params.contoh }}</p>
+          {{ end }}
+
         </div>
+         
 
         <div class=" middle-xs">
 
