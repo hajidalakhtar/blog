@@ -1,5 +1,6 @@
 +++
 categories = ["KEBAHAGIAAN"]
+contoh = "\"Asal sudah mengumpulkan makalah, maka mahasiswa akan diluluskan\" tanpa melihat makalah tersebut sesuai atau tidak"
 date = 2021-02-20T17:00:00Z
 featured_image = "/uploads/storyboard-brainstorm-presentation-1.png"
 linktitle = "action-bias"
