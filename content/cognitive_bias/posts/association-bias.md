@@ -3,6 +3,7 @@ categories = ["BIAS"]
 date = 2021-02-27T17:00:00Z
 featured_image = "/uploads/storyboard-brainstorm-presentation-2.png"
 linktitle = "ASSOCIATION-BIAS"
+source = ["https://fs.blog/2015/08/bias-from-association-why-we-shoot-the-messenger/"]
 thumbnail = "/uploads/storyboard-brainstorm-presentation-2.png"
 title = "Association Bias"
 
