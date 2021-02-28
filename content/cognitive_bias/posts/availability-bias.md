@@ -1,5 +1,6 @@
 +++
 categories = ["BIAS"]
+contoh = "\"kosanku adalah tempat yang paling aman. Aku tidak pernah mengkunci pintu kamar kostku. Bahkan saat aku pergi berlibur. Dan kamar kostku tidak pernah dibobol orang\""
 date = 2021-02-27T17:00:00Z
 featured_image = "/uploads/storyboard-brainstorm-presentation-4.png"
 linktitle = "availability-bias"
