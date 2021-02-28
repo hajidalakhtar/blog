@@ -1,6 +1,6 @@
 baseURL = "https://blog.joway.io/"
 languageCode = "en-us"
-title = "Dunia Kertas | Sebuah informasi untuk anak muda"
+title = "Berfilsafat | Sebuah informasi untuk anak muda"
 theme = "yinyang"
 DefaultContentLanguage = "filsafat"
 
@@ -39,7 +39,7 @@ staticDir = "static"
 
 [params]
 mainSections = ["posts"]
-headTitle = "DUNIA KERTAS"
+headTitle = "BERFILSAFAT"
 disqus = "hajid_alakhtar" # disqus account name
 extraHead = '<script async src="https://www.googletagmanager.com/gtag/js?id=UA-xxx"></script>'
 [[params.socials]]
