@@ -7,7 +7,7 @@ linktitle = "availability-bias"
 title = "Availability Bias"
 
 +++
-Availability Bias adalah kecenderungan manusia untuk berpikir yang menghasilkan gambaran-gambaran yang lebih representatif daripada yang sebenarnya terjadi.
+Availability Bias adalah kecenderungan manusia untuk berpikir yang menghasilkan gambaran-gambaran yang lebih representatif daripada yang sebenarnya terjadi. <!--more-->
 
 Availability Bias terjadi ketika kita menciptakan suati gambaran tentang sesuatu, dengan mengunakan contoh-contoh yang lebih mudah muncul
 
