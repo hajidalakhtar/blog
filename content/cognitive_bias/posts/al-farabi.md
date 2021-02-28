@@ -3,7 +3,7 @@ categories = ["KEBAHAGIAAN"]
 date = 2021-02-20T17:00:00Z
 featured_image = "/uploads/storyboard-brainstorm-presentation-1.png"
 linktitle = "action-bias"
-source = ["https://thedecisionlab.com/biases/action-bias/"]
+source = ["https://shopee.co.id/Ihwal-Sesat-Pikir-dan-Cacat-Logika-i.240041305.5553676606", "https://thedecisionlab.com/biases/action-bias/"]
 title = "Action Bias"
 
 +++
