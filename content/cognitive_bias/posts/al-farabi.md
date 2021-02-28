@@ -9,7 +9,7 @@ title = "Action Bias"
 +++
 Action bias adalah tindakan yang mengambarkan kecenderungan kita untuk lebih menyukai tindakan dari pada tidak bertindak sama sekali
 
-Action bias sering terjadi dalam situasi baru, sehingga orang tidak dapat mengukur ketepatan maupun efektivitas tindakan yang di ambil
+Action bias sering terjadi dalam situasi baru, sehingga orang tidak dapat mengukur ketepatan maupun efektivitas tindakan yang di ambil<!--more-->
 
 **CONTOH**
 
