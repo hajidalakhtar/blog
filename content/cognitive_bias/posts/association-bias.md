@@ -1,5 +1,6 @@
 +++
 categories = ["BIAS"]
+contoh = "\"Asal sudah mengumpulkan makalah, maka mahasiswa akan diluluskan\" tanpa melihat makalah tersebut sesuai atau tidak"
 date = 2021-02-27T17:00:00Z
 featured_image = "/uploads/storyboard-brainstorm-presentation-2.png"
 linktitle = "ASSOCIATION-BIAS"
