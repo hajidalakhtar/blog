@@ -1,12 +1,12 @@
 +++
 categories = ["KEBAHAGIAAN"]
 date = 2021-02-20T17:00:00Z
+featured_image = "/uploads/storyboard-brainstorm-presentation-1.png"
 linktitle = "action-bias"
-source = ["https://id.wikipedia.org/wiki/Al-Farabi", "https://www.youtube.com/watch?v=LxCcVvI-V24"]
+source = []
 title = "Action Bias"
-featured_image = "/uploads/action_bias.png" 
-+++
 
++++
 Abū Nasir Muhammad bin al-Farakh al-Fārābi' (870-950, Bangsa Turk: Farabi ) singkat Al-Farabi adalah ilmuwan dan filsuf Islam berasal dari Farab, Kazakhstan. Ia juga dikenal dengan nama Abū Nasir al-Fārābi (dalam beberapa sumber ia dikenal sebagai Abu Nasr Muhammad Ibn Muhammad Ibn Tarkhan Ibn Uzalah Al- Farabi, juga dikenal di dunia barat sebagai Alpharabius, Al-Farabi, Farabi, dan Abunasir.
 
 ## Kebahagiaan Menurut Al-Farabi
