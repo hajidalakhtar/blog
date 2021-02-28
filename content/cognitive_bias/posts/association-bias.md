@@ -7,7 +7,7 @@ thumbnail = "/uploads/storyboard-brainstorm-presentation-2.png"
 title = "Association Bias"
 
 +++
-Association bias terjadi ketika kita menghubungkan sesuatu dengan sesuatu yang lain yang sebenarnya tidak berhubungan<!--more-->
+Association bias adalah cara kita berpikir untuk menghubungkan sesuatu dengan sesuatu yang lain yang sebenarnya tidak berhubungan<!--more-->
 
 Cara berpikir seperti di miliki manusia secara alami, seperti ketika kita memakan makanan yang belum pernah kita makan sebelum nya, lalu setelah memakan makanan tersebut perut kita terasa sakit, maka kita akan berasumsi bahwa makanan tersebut adalah penyebab nya, padahal belum tentu maknan tersebut penyebab nya
 
