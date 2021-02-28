@@ -21,3 +21,4 @@ fields:
   label: featured_image
 pages:
 - content/cognitive_bias/posts/association-bias.md
+- content/cognitive_bias/posts/availability-bias.md
