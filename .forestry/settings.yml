@@ -5,22 +5,12 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: content
-  label: Pages
-  create: all
-  match: "*"
-- type: directory
-  path: content/posts
-  label: Posts
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/en
+  path: content/filsafat
   label: Filsafat
   create: all
   match: "**/*"
 - type: directory
-  path: content/cn
+  path: content/cognitive_bias
   label: Cognitive Bias
   create: all
   match: "**/*"
