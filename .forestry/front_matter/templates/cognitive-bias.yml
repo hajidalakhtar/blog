@@ -26,6 +26,15 @@ fields:
     min: 
     max: 
   label: source
+- name: contoh
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: contoh
 pages:
 - content/cognitive_bias/posts/association-bias.md
 - content/cognitive_bias/posts/availability-bias.md
