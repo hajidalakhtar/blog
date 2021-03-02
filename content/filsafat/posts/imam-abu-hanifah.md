@@ -12,6 +12,8 @@ Abu Hanifah juga merupakan seorang Tabi'in, generasi setelah Sahabat nabi, karen
 
 Imam Hanafi disebutkan sebagai tokoh yang pertama kali menyusun kitab fiqh berdasarkan kelompok-kelompok yang berawal dari kesucian (taharah), shalat dan seterusnya, yang kemudian diikuti oleh ulama-ulama sesudahnya seperti Malik bin Anas, Imam Syafi'i, Abu Dawud, Imam Bukhari. kata nya tidak ada orang lain yang selevel dengan imam abu hanifah untuk sekarang ini
 
+***
+
 # DASAR MENETAPKAN HUKUM
 
 Untuk menetapkan dasar hukum imam Abu Hanafi mengutamakan al'quran dan hadis, ketika beliau tidak menemukan nya, beliau akan melihat para sahabat, jika tidak di temukan juga maka beliau akan berijtihad
@@ -27,15 +29,17 @@ Untuk menetapkan dasar hukum imam Abu Hanafi mengutamakan al'quran dan hadis, ke
 * Istihsan = mencari yang baik (meningalkan satu hukum yang sudah di tetapkan ke hukum yang lain dengan pertimbangan Maslahah) **seperti** suatu ketika umar tidak memotong tangan seorang pencuri. karena kasian terhadap pencuri tersebut, karena pencuri itu mencuri dalam keadaan terpaksa (mungkin tetanganya sangat pelit sehinga dia tidak bisa meminta tolong kepada siapapun lagi dan dia tidak bisa bekerja karena suatu hal) berbeda dengan imam Syafi'i yang tidak menjadikan istihsan ini sebagai dasar karena takut nanti orang malah mengada mengada dan menentukan masalah masalah sendiri
 * 'Urf = Adat yang positif, yang makruf itu boleh dijadikan dasar, tapi tetep adat nya harus sahih dan positif, seperti ngaji, silatuahmi dan lain lain nya biarpun tidak ada dasar nya tapi ini boleh di jadikan dasar
 
+***
+
 # CONTOH KARAKTERISTIK PEMIKIRAN
 
 beberapa contoh fatwa yang bisa kita simpulkan menjadi karakteristik Imam Abu hanafi ( **jika ada yang salah tolong di revisi yaa** ):
 
 * Keberpihakan kepada yang lemah **seperti** ketentuan wajib zakat pada pakaian yang terbuat dari emas dan perak (baju yang harga nya melebihi syarat zakat), serta tidak diwajibkan zakat pada orang yang mempunyai hutang.
-* Kemudahan **seperti** ketika di malam yang gelap atau pada saat susah ketika menentukan arah kiblat. Seseorang yang shalat dalam kondisi demikian, kemudian dia shalat sesuai keyakinannya, maka hukum shalatnya sah sekalipun ternyata ia tidak menghadap kiblat. Dengan syarat dia sudah berusaha mencari arah kiblat 
+* Kemudahan **seperti** ketika di malam yang gelap atau pada saat susah ketika menentukan arah kiblat. Seseorang yang shalat dalam kondisi demikian, kemudian dia shalat sesuai keyakinannya, maka hukum shalatnya sah sekalipun ternyata ia tidak menghadap kiblat. Dengan syarat dia sudah berusaha mencari arah kiblat
 * Kemanusiaan **seperti** bagi anak-anak perempuan yang sudah mencapai umur untuk mencari pasangan hidup tanpa ada paksaan dari wali hukum nya sah. Tetapi perkawinan yang dilakukan secara paksa terhadap anak perempuan, hukumnya tidak sah jika ia menolak perkawinan tersebut
 
-beberapa contoh perkataan yang bisa kita simpulkan menjadi karakteristik Imam Abu hanafah:
+Beberapa contoh perkataan yang bisa kita simpulkan menjadi karakteristik Imam Abu hanafah:
 
 * **Memiliki jiwa terbuka**
   * "Perkataan kami ini pendapat, dan kami memperkirakan ini lebih baik. Dan barang siapa membawa apa yang lebih baik dari perkataan kami, maka ia lebih benar dari pendapat kami"
@@ -46,9 +50,13 @@ beberapa contoh perkataan yang bisa kita simpulkan menjadi karakteristik Imam Ab
 * **Ingin Mencerdaskan umat islam**
   * "Tidak halal bagi seseorang untuk mengambil/memakai pendapat kami selama dia tidak mengetahui dari dalil mana kami mengambil pendapat tersebut"
 
+***
+
 # HIKMAH
 
 Kita sebagai umat muslim ada baiknya melihat berbagai macam tokoh-tokoh islam. Karena ada banyak sekali hal-hal dan pelajaran-pelajaran yang bisa kita ambil, Oleh karena itu kita akan masuk ke dalam beberapa hikmah dari kehidupan Imam Abu Hanifah
+
+***
 
 ## NASEHAT DARI ANAK KECIL
 
@@ -70,6 +78,8 @@ Tak lama kemudian, Ulama besar ini tersungkur menangis. Ia bersyukur kerena nasi
 
 Memang kadang kadang pujian itu rasa nya menyenangkan, tapi kalau kita tidak hati hati maka itu akan menjadi sumber untuk mencelakai kita, kita merasa penting, merasa lebih dari yang lain maka keutamaan keutamaan, pujian pujian orang tersebut akan menjadi hal yang dapat mencelakakan kita khusus nya di akhirat, maka kita harus bersikap tidak sombong dan tidak membangakan apa yang sudah kita raih, karena biasa nya kita tidak waspada dalam situasi senang, nyaman dan lain lain, merasa bahwa pujian pujian itu adalah hak kita, dan kita lupa bahwa yang memberi hal itu adalah allah
 
+***
+
 ## KEBAIKAN DENGAN JALAN BAIK
 
 Ada kisah seorang pencuri yang mencuri sebuah apel lalu pencuri itu meberikan apel itu kepada orang tidak mampu lalu Imam Abu Hanifah yang melihat itu bertanya
@@ -88,6 +98,8 @@ Ada kisah seorang pencuri yang mencuri sebuah apel lalu pencuri itu meberikan ap
 
 Jangan pernah ngakalin dosa dan pahala 😉 karena belum tentu semua perbuatan baik mu di terima oleh allah, bisa jadi amalan kecil yang akan menyelamatkan mu dari neraka dan bisa juga dosa kecil yang akan membatalkan mu masuk ke surga
 
+***
+
 ## TIDAK SEKEDAR PUJIAN
 
 Ketika mendengar orang memujinya maka beliau akan melakukan yang lebih dari pujian tersebut, **seperti** ketika seseorang memuji beliau setiap malam shalat sekian rakaat, maka beliau akan shalat lebih banyak dari itu.
@@ -98,6 +110,8 @@ Suatu saat ada muridnya bertanya "Mengapa harus begitu wahai guru?", Lalu Imam A
 
 Orang memuji kita mungkin karena mereka tidak tau sebenar nya kita seperti apa, maka kita harus membuat pujian itu menjadi kenyataan dan melebihi nya supaya kita tidak masuk kedalam orang yang bangga atas pujian yang sebenar nya tidak kita miliki
 
+***
+
 ## MEREKA YANG SIMPIT PEMIKIRAN
 
 Suatu hari Imam Abu Hanifah membacakan firman Allah, "Sebab itu sampaikanlah kegembiraan itu kepada hamba-hamba-ku, (yaitu) mereka yang mendengarkan perkataan lalu mengikuti apa yang paling baik di antaranya." (Az-Zumar: 17-18). Lalu Imam abu hanifah mengucapkan, "Ya Allah, barang siapa hatinya sempit karena kami, sesungguhnya hati kami luas untuknya"
@@ -105,6 +119,8 @@ Suatu hari Imam Abu Hanifah membacakan firman Allah, "Sebab itu sampaikanlah keg
 ### KESIMPULAN
 
 Mungkin kita punya sedikit wawasan tentang kebenaran dan kebaikan, kemudian kita sampaikan kepada orang lain, dan ada kalanya orang nya tidak mau menerime lalu marah marah menyebut kita sok pinter, sok tau dan lain sebagai nya, dan biasa nya kita juga ikutan marah. Jika hal itu terjadi yang kita lakukan adalah sabar menerima makian dan mendoakan orang tersebut
+
+***
 
 ## KESABARAN DAN KETEGUHAN
 
@@ -114,9 +130,13 @@ Abu Hanifah Rahimahullah memiliki kesabaran yang luas. Ia tidak terprovokasi dan
 
 Sabarlah pada orang yang memakimu, dan teguh lah pada apa yang kau angap benar, Jangan sampai karena dicacimaki, kita membuat apa yang benar menjadi salah
 
+***
+
 # NASEHAT
 
-Nasihat akan selalu dibutuhkan dalam kehidupan. Nasihat juga yang akan membuat segala keterpurukan menjadi lebih terarah jalannya. Dan akan banyak sekali hal yang bisa kita ambil dari nasehat Imam Mazhab hanafi ini
+Nasihat akan selalu dibutuhkan dalam kehidupan. Nasihat juga yang akan membuat segala keterpurukan menjadi lebih terarah jalannya. Dan akan banyak sekali hal yang bisa kita ambil dari nasehat Imam Abu Hanifah
+
+***
 
 # MENGHADAPI MASYARAKAT
 
@@ -126,17 +146,23 @@ Sebaiknya kamu mengikuti kemauan masyarakat, sabar, baik budi pekerti , lapang d
 
 Perlakukan manusia sebagai engkau memperlakukan diri sendiri. Ridhalah seperti kamu ridha terhadap dirimu sendiri. Janganlah membebani manusia sesuatu yang tidak mereka bebani kepadamu. Kedepankanlah niat baik kepada mereka, pakailah kejujuran, buanglah kecongkakan jauh-jauh. Janganlah sekali-kali kamu berkhianat walaupun mereka menghianati kamu. Pegang teguhlah kesetiaan dan taqwa. Allah akan selalu bersamamu
 
+***
+
 # MENGHADAPI PENGUASA
 
 Hormatilah penguasa, dan junjunglah derajatnya. Jangan berindak bohong kepadanya. Jangan mendatanginya setiap saat, jika tidak ada keperluan mendesak terkait dengan perkara ilmu. Sebab jika engkau terlalu sering mengunjungi penguasa, dia akan meremehkanmu dan kedudukanmu mengecil di matanya
 
 Jika engkau melihat penguasa melakukan sesuatu yang tidak sesuai dengan pendapat yang engkau anut, katakanlah itu kepadannya seraya tetap menjaga sikap loyalmu kepadanya, sebab ia memiliki kekuasaan yang lebih tinggi dari padamu. Engkau bisa berkata kepadanya seperti ini: Saya tetap loyal kepadamu Wahai Sultan, dalam hal-hal dimana engkau memiliki kekuasaan atasku. Tetapi tindakanmu tidak sesuai dengan ilmu dan pendapat yang aku miliki
 
-## MENCARI ILMU DAN MENIKAH
+***
+
+# MENCARI ILMU DAN MENIKAH
 
 "Janganlah engkau terbaru-baru untuk menikah, kecuali setelah engkau tahu bahwasanya engkau sudah mampu untuk bertanggung jawab memenuhi seluruh kebutuhan istrimu. Carilah ilmu dahulu sampai terkumpul, berulah kemudian kumpulkanlah harta benda dari jalan yang halal setelah menikah."
 
 "Jika engkau mencari harta benda di saat waktumu mencari ilmu, maka engkau akan lemah dalam mendapatkan ilmu, karena harta benda selalu mengajak untuk terus berniaga dengan orang-orang di sekitarmu, dan engkau akan tersibukkan dengan urusan dunia juga perempuan, sebelum engkau benar-benar mendapatkan ilmu. Jika itu yang terjadi, maka waktumu akan tersia-siakan, dan engkau akan mempunyai banyak anak , keluarga akan menjadi semakin banyak juga. Oleh karena itu, maka engkau sangat berhajat untuk memenuhi kebutuhan-kebutuhan mereka, sehingga akan membuat engkau meninggalkan ilmu"
+
+***
 
 ## HADIS PILIHAN
 
