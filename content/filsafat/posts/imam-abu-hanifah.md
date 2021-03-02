@@ -1,7 +1,6 @@
 +++
 categories = ["Hikmah"]
 date = 2021-03-01T17:00:00Z
-draft = true
 linktitle = "imam-abu-hanifah"
 source = ["https://id.wiktionary.org/wiki/menganalogikan", "https://id.wikipedia.org/wiki/Ijtihad", "https://galamedia.pikiran-rakyat.com/humaniora/pr-35946005/yang-halal-sudah-jelas-dan-haram-pun-sudah-jelas-hati-hati-terhadap-yang-syubhat-samar", "https://republika.co.id/berita/q880o3320/umar-bin-khattab-batal-hukum-potong-tangan-untuk-si-miskin"]
 title = "Imam Abu Hanifah"
