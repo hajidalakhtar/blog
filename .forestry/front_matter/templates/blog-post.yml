@@ -22,3 +22,5 @@ fields:
   type: tag_list
   default: []
   label: categories
+pages:
+- content/filsafat/posts/imam-abu-hanifah.md
