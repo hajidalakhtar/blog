@@ -1,6 +1,6 @@
 +++
 categories = ["KEBIASANAAN"]
-contoh = "Ketika kita pernah kali mendengar suatu lagu baru maka kita tidak terlalu memedulikannya pada awalnya, tetapi setelah mendengarnya beberapa kali, kita merasa benar-benar menikmati lagu tersebut dan beberapa kali kita menyanyikan lagu tersebut secara tidak terduga"
+contoh = "Ketika kita pertama kali mendengar suatu lagu baru maka kita tidak terlalu memedulikannya pada awalnya, tetapi setelah mendengarnya beberapa kali, kita merasa benar-benar menikmati lagu tersebut dan beberapa kali kita menyanyikan lagu tersebut secara tidak terduga"
 date = 2021-03-03T17:00:00Z
 featured_image = "/uploads/storyboard-brainstorm-presentation-9.png"
 linktitle = "mere-exposure-effect"
