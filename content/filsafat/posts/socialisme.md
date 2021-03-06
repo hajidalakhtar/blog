@@ -1,8 +1,8 @@
 +++
-categories = []
+categories = ["IDEOLOGI"]
 date = 2021-03-05T17:00:00Z
 draft = true
-linktitle = "SOCIALISME"
+linktitle = "sosialisme"
 source = ["https://id.wikipedia.org/wiki/Sosialisme_Utopis", "https://id.wikipedia.org/wiki/Sosialisme_Utopis", "https://www.youtube.com/watch?v=wh-jYcfdBTo", "https://www.youtube.com/watch?v=wh-jYcfdBTo", "https://www.youtube.com/watch?v=cPPfzn4ouX4", "https://www.youtube.com/watch?v=cPPfzn4ouX4", "https://id.wikipedia.org/wiki/Teleologi"]
 title = "SOCIALISME"
 
