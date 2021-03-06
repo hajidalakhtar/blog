@@ -53,20 +53,22 @@ Untuk Mencapai komunisme Marx membuat sebuah teori atau tahapan yang harus di ca
 * Kompetisi bebas
 * Lahir kelas-kelas ekonomi yang tidak setara
 
-2. **PERJUANGAN KELAS**
+1. **PERJUANGAN KELAS**
 
 * Pertarungan antara kelas atas dan kelas pekerja (Borjuis vs Proletar)
 
-3. **REVOLISI PROLETAR**
+1. **REVOLISI PROLETAR**
 
 * Kelas pekerja merancang pemberontakan untuk menaklukan kelas atas
 
-4. **SOCIALISME**
+1. **SOCIALISME**
 
 * Kelas pekerja menguasai industri dan memerintah
 * Barmaksud melahirkan kesetaraan ekonomi
 * Tujuan akhirnya masyarakan tanpa kelas
-  5. **KOMUNISME**
+
+1. **KOMUNISME**
+
 * Lahir masyarakat tanpa kelas
 * Negara dan pemerintah tidak dibutuhkan lagi
 
