@@ -1,6 +1,7 @@
 +++
 categories = ["Hikmah"]
 date = 2021-03-01T17:00:00Z
+draft = true
 linktitle = "imam-abu-hanifah"
 source = ["https://id.wiktionary.org/wiki/menganalogikan", "https://id.wikipedia.org/wiki/Ijtihad", "https://galamedia.pikiran-rakyat.com/humaniora/pr-35946005/yang-halal-sudah-jelas-dan-haram-pun-sudah-jelas-hati-hati-terhadap-yang-syubhat-samar", "https://republika.co.id/berita/q880o3320/umar-bin-khattab-batal-hukum-potong-tangan-untuk-si-miskin"]
 title = "Imam Abu Hanifah"
@@ -18,7 +19,7 @@ Imam Hanafi disebutkan sebagai tokoh yang pertama kali menyusun kitab fiqh berda
 
 Untuk menetapkan dasar hukum imam Abu Hanafi mengutamakan al'quran dan hadis, ketika beliau tidak menemukan nya, beliau akan melihat para sahabat, jika tidak di temukan juga maka beliau akan berijtihad
 
-> "Aku merujuk kitab Allah. Bila aku tidak menemukan (dasar hukum) didalamnya, aku akan merujuk sunnah. Bila di dalam keduanya aku juga tidak menemukan, aku memilih pendapat siapa saja dari mereka yang ku kehendaki, aku tidak akan pindah dari satu pendapat ke pendapat sahabat yang lain. Apabila urusan sudah sampai kepada ibrahim, al-Sya'bi, ibnu sirrin, al-Hasan, al-Atha, Sa'id ibnu Musayyab, dan sejumlah seorang yang lainnya, mereka semua sudah berijtihad, maka aku akan berijtihad sebagaimana mereka berijtihad"
+"Aku merujuk kitab Allah. Bila aku tidak menemukan (dasar hukum) didalamnya, aku akan merujuk sunnah. Bila di dalam keduanya aku juga tidak menemukan, aku memilih pendapat siapa saja dari mereka yang ku kehendaki, aku tidak akan pindah dari satu pendapat ke pendapat sahabat yang lain. Apabila urusan sudah sampai kepada ibrahim, al-Sya'bi, ibnu sirrin, al-Hasan, al-Atha, Sa'id ibnu Musayyab, dan sejumlah seorang yang lainnya, mereka semua sudah berijtihad, maka aku akan berijtihad sebagaimana mereka berijtihad"
 
 ## DASAR ISTIMBATH HUKUM
 
