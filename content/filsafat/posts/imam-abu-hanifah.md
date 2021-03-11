@@ -13,8 +13,6 @@ Abu Hanifah juga merupakan seorang Tabi'in, generasi setelah Sahabat nabi, karen
 
 Imam Hanafi disebutkan sebagai tokoh yang pertama kali menyusun kitab fiqh berdasarkan kelompok-kelompok yang berawal dari kesucian (taharah), shalat dan seterusnya, yang kemudian diikuti oleh ulama-ulama sesudahnya seperti Malik bin Anas, Imam Syafi'i, Abu Dawud, Imam Bukhari. kata nya tidak ada orang lain yang selevel dengan imam abu hanifah untuk sekarang ini
 
----
-
 # DASAR MENETAPKAN HUKUM
 
 Untuk menetapkan dasar hukum imam Abu Hanafi mengutamakan al'quran dan hadis, ketika beliau tidak menemukan nya, beliau akan melihat para sahabat, jika tidak di temukan juga maka beliau akan berijtihad
@@ -30,7 +28,11 @@ Untuk menetapkan dasar hukum imam Abu Hanafi mengutamakan al'quran dan hadis, ke
 - Istihsan = mencari yang baik (meningalkan satu hukum yang sudah di tetapkan ke hukum yang lain dengan pertimbangan Maslahah) **seperti** suatu ketika umar tidak memotong tangan seorang pencuri. karena kasian terhadap pencuri tersebut, karena pencuri itu mencuri dalam keadaan terpaksa (mungkin tetanganya sangat pelit sehinga dia tidak bisa meminta tolong kepada siapapun lagi dan dia tidak bisa bekerja karena suatu hal) berbeda dengan imam Syafi'i yang tidak menjadikan istihsan ini sebagai dasar karena takut nanti orang malah mengada mengada dan menentukan masalah masalah sendiri
 - 'Urf = Adat yang positif, yang makruf itu boleh dijadikan dasar, tapi tetep adat nya harus sahih dan positif, seperti ngaji, silatuahmi dan lain lain nya biarpun tidak ada dasar nya tapi ini boleh di jadikan dasar
 
----
+## <<<<<<< HEAD
+
+=======
+
+> > > > > > > 009f786d33bb4b07b653597a14f1100f25e0e4b4
 
 # CONTOH KARAKTERISTIK PEMIKIRAN
 
@@ -51,7 +53,11 @@ Beberapa contoh perkataan yang bisa kita simpulkan menjadi karakteristik Imam Ab
 - **Ingin Mencerdaskan umat islam**
   - "Tidak halal bagi seseorang untuk mengambil/memakai pendapat kami selama dia tidak mengetahui dari dalil mana kami mengambil pendapat tersebut"
 
----
+## <<<<<<< HEAD
+
+=======
+
+> > > > > > > 009f786d33bb4b07b653597a14f1100f25e0e4b4
 
 # HIKMAH
 
@@ -79,7 +85,11 @@ Tak lama kemudian, Ulama besar ini tersungkur menangis. Ia bersyukur kerena nasi
 
 Memang kadang kadang pujian itu rasa nya menyenangkan, tapi kalau kita tidak hati hati maka itu akan menjadi sumber untuk mencelakai kita, kita merasa penting, merasa lebih dari yang lain maka keutamaan keutamaan, pujian pujian orang tersebut akan menjadi hal yang dapat mencelakakan kita khusus nya di akhirat, maka kita harus bersikap tidak sombong dan tidak membangakan apa yang sudah kita raih, karena biasa nya kita tidak waspada dalam situasi senang, nyaman dan lain lain, merasa bahwa pujian pujian itu adalah hak kita, dan kita lupa bahwa yang memberi hal itu adalah allah
 
----
+## <<<<<<< HEAD
+
+=======
+
+> > > > > > > 009f786d33bb4b07b653597a14f1100f25e0e4b4
 
 ## KEBAIKAN DENGAN JALAN BAIK
 
@@ -99,7 +109,11 @@ Ada kisah seorang pencuri yang mencuri sebuah apel lalu pencuri itu meberikan ap
 
 Jangan pernah ngakalin dosa dan pahala 😉 karena belum tentu semua perbuatan baik mu di terima oleh allah, bisa jadi amalan kecil yang akan menyelamatkan mu dari neraka dan bisa juga dosa kecil yang akan membatalkan mu masuk ke surga
 
----
+## <<<<<<< HEAD
+
+=======
+
+> > > > > > > 009f786d33bb4b07b653597a14f1100f25e0e4b4
 
 ## TIDAK SEKEDAR PUJIAN
 
@@ -111,7 +125,11 @@ Suatu saat ada muridnya bertanya "Mengapa harus begitu wahai guru?", Lalu Imam A
 
 Orang memuji kita mungkin karena mereka tidak tau sebenar nya kita seperti apa, maka kita harus membuat pujian itu menjadi kenyataan dan melebihi nya supaya kita tidak masuk kedalam orang yang bangga atas pujian yang sebenar nya tidak kita miliki
 
----
+## <<<<<<< HEAD
+
+=======
+
+> > > > > > > 009f786d33bb4b07b653597a14f1100f25e0e4b4
 
 ## MEREKA YANG SIMPIT PEMIKIRAN
 
@@ -121,7 +139,11 @@ Suatu hari Imam Abu Hanifah membacakan firman Allah, "Sebab itu sampaikanlah keg
 
 Mungkin kita punya sedikit wawasan tentang kebenaran dan kebaikan, kemudian kita sampaikan kepada orang lain, dan ada kalanya orang nya tidak mau menerime lalu marah marah menyebut kita sok pinter, sok tau dan lain sebagai nya, dan biasa nya kita juga ikutan marah. Jika hal itu terjadi yang kita lakukan adalah sabar menerima makian dan mendoakan orang tersebut
 
----
+## <<<<<<< HEAD
+
+=======
+
+> > > > > > > 009f786d33bb4b07b653597a14f1100f25e0e4b4
 
 ## KESABARAN DAN KETEGUHAN
 
@@ -131,13 +153,21 @@ Abu Hanifah Rahimahullah memiliki kesabaran yang luas. Ia tidak terprovokasi dan
 
 Sabarlah pada orang yang memakimu, dan teguh lah pada apa yang kau angap benar, Jangan sampai karena dicacimaki, kita membuat apa yang benar menjadi salah
 
----
+## <<<<<<< HEAD
+
+=======
+
+> > > > > > > 009f786d33bb4b07b653597a14f1100f25e0e4b4
 
 # NASEHAT
 
 Nasihat akan selalu dibutuhkan dalam kehidupan. Nasihat juga yang akan membuat segala keterpurukan menjadi lebih terarah jalannya. Dan akan banyak sekali hal yang bisa kita ambil dari nasehat Imam Abu Hanifah
 
----
+## <<<<<<< HEAD
+
+=======
+
+> > > > > > > 009f786d33bb4b07b653597a14f1100f25e0e4b4
 
 # MENGHADAPI MASYARAKAT
 
@@ -147,7 +177,11 @@ Sebaiknya kamu mengikuti kemauan masyarakat, sabar, baik budi pekerti , lapang d
 
 Perlakukan manusia sebagai engkau memperlakukan diri sendiri. Ridhalah seperti kamu ridha terhadap dirimu sendiri. Janganlah membebani manusia sesuatu yang tidak mereka bebani kepadamu. Kedepankanlah niat baik kepada mereka, pakailah kejujuran, buanglah kecongkakan jauh-jauh. Janganlah sekali-kali kamu berkhianat walaupun mereka menghianati kamu. Pegang teguhlah kesetiaan dan taqwa. Allah akan selalu bersamamu
 
----
+## <<<<<<< HEAD
+
+=======
+
+> > > > > > > 009f786d33bb4b07b653597a14f1100f25e0e4b4
 
 # MENGHADAPI PENGUASA
 
@@ -155,7 +189,11 @@ Hormatilah penguasa, dan junjunglah derajatnya. Jangan berindak bohong kepadanya
 
 Jika engkau melihat penguasa melakukan sesuatu yang tidak sesuai dengan pendapat yang engkau anut, katakanlah itu kepadannya seraya tetap menjaga sikap loyalmu kepadanya, sebab ia memiliki kekuasaan yang lebih tinggi dari padamu. Engkau bisa berkata kepadanya seperti ini: Saya tetap loyal kepadamu Wahai Sultan, dalam hal-hal dimana engkau memiliki kekuasaan atasku. Tetapi tindakanmu tidak sesuai dengan ilmu dan pendapat yang aku miliki
 
----
+## <<<<<<< HEAD
+
+=======
+
+> > > > > > > 009f786d33bb4b07b653597a14f1100f25e0e4b4
 
 # MENCARI ILMU DAN MENIKAH
 
@@ -163,7 +201,11 @@ Jika engkau melihat penguasa melakukan sesuatu yang tidak sesuai dengan pendapat
 
 "Jika engkau mencari harta benda di saat waktumu mencari ilmu, maka engkau akan lemah dalam mendapatkan ilmu, karena harta benda selalu mengajak untuk terus berniaga dengan orang-orang di sekitarmu, dan engkau akan tersibukkan dengan urusan dunia juga perempuan, sebelum engkau benar-benar mendapatkan ilmu. Jika itu yang terjadi, maka waktumu akan tersia-siakan, dan engkau akan mempunyai banyak anak , keluarga akan menjadi semakin banyak juga. Oleh karena itu, maka engkau sangat berhajat untuk memenuhi kebutuhan-kebutuhan mereka, sehingga akan membuat engkau meninggalkan ilmu"
 
----
+## <<<<<<< HEAD
+
+=======
+
+> > > > > > > 009f786d33bb4b07b653597a14f1100f25e0e4b4
 
 ## HADIS PILIHAN
 
