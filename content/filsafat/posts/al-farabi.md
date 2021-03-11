@@ -8,7 +8,7 @@ title = "Al-Farabi"
 +++
 Abū Nasir Muhammad bin al-Farakh al-Fārābi' (870-950, Bangsa Turk: Farabi ) singkat Al-Farabi adalah ilmuwan dan filsuf Islam berasal dari Farab, Kazakhstan. Ia juga dikenal dengan nama Abū Nasir al-Fārābi (dalam beberapa sumber ia dikenal sebagai Abu Nasr Muhammad Ibn Muhammad Ibn Tarkhan Ibn Uzalah Al- Farabi, juga dikenal di dunia barat sebagai Alpharabius, Al-Farabi, Farabi, dan Abunasir.
 
-## Kebahagiaan Menurut Al-Farabi
+# Kebahagiaan Menurut Al-Farabi
 
 Orang awam mentafsirkan kebahagiaan adalah kesejahteraan (kenikmatan). Tetapi menurut Al-Farabi lezat, enak, nikmat itu belum bahagia yang sejati itu baru dilevel awal **contoh** kamu memiliki banyak harta tetapi kamu sakit-sakitan biarpun kamu bisa makan apapun tapi rasa makanan nya akan berbeda. Itu lah kenapa kenikmatan bukan kebahagiaan yang sejati
 
@@ -26,7 +26,7 @@ Bahagia terjadi ketika jiwa mu termanifestasi secara sempurna/optimal kalau selu
 
 ***
 
-## Daya Jiwa
+# Daya Jiwa
 
 Jiwa kita memiliki daya gerak, daya mengetahui, daya berpikir. Semua ini harus kita optimal kan untuk mendapatkan kebahagiaan yang sesunguhnya, jika di antara daya jiwa itu ada yang kurang maka itu adalah sumber ketidak bahagiaan
 
@@ -38,7 +38,7 @@ Jiwa kita memiliki daya gerak, daya mengetahui, daya berpikir. Semua ini harus k
 
 ***
 
-## Kebahagiaan Social
+# Kebahagiaan Social
 
 untuk mendapatkan kebahagia secara social kita harus membutuhkan orang lain. Kebahagiaan social menjadi sumber kebahagiaan individual dan kebahagiaan individual menjadi sumber kebahagiaan social. Untuk mendapatkan kebahagiaan social adalah kita harus bekerja sama sesama manusia
 
@@ -50,7 +50,7 @@ Kebahagiaan social di bagi menjadi 3 bagian yaitu:
 
 Selain kebahagiaan level individu kita juga harus bahagia secara kelompok, kalo ga kebahagiaan individu kamu tidak akan sempurna, kebahagiaan kelompok tidak akan sempurna kalo kebahagiaan kota tidak sempurna, kebahagiaan kota tidak akan sempurna kalo kebahagiaan negara tidak sempurna **contoh** kamu tidak akan bahagia kalau negara yang kamu tempati sedang berperang dengan negara lain.
 
-### Jenis Negara/Kota/Kelompok Masyarakat
+## Jenis Negara/Kota/Kelompok Masyarakat
 
 * Al-Fadilah adalah negara/Kota/Kelompok Masyarakat yang orang di dalam nya punya pengetahuan untuk bahagia, Praktek hidup nya juga membahagiakan saling bantu untuk mendapatkan kebahagiaan
 * Al-Jahilah adalah Negara/Kota/Kelompok Masyarakat yang orang di dalam nya tidak punya pengetahuan tentang kebahagiaan.
@@ -60,11 +60,11 @@ Selain kebahagiaan level individu kita juga harus bahagia secara kelompok, kalo 
 
 ***
 
-## MENCAPAI KEBAHAGIAAN PUNCAK
+# MENCAPAI KEBAHAGIAAN PUNCAK
 
 Untuk mencapai kebahagiaan puncak kita harus mengabungkan antara keutamaan teoritis, keutamaan berpikir, keutamaan moral dan keutamaan praksis
 
-### KEUTAMAAN TEORITIS
+## KEUTAMAAN TEORITIS
 
 Kautamaan teoritis adalah pengetahuaan. kunci nya hidup ini ada di ilmu. ilmu apa saja sih yang bisa membuat kita bahagiaa? Ya semua ilmu. baik itu tentang fisika,metafisik,intelek atau tentang segala yang bisa di pahami dan dipikirkan oleh manusia.
 
@@ -80,11 +80,11 @@ Proses mendapatkan keutamaan teoritis:
 
 Pengetahuaan adalah sumber kebahagiaan karna kebahagia adalah kepuasan. kalo belum puas orang tidak akan bahagia. untuk bisa sampe kelevel puas kita harus tuntas. untuk sampe kelevel tuntas kita harus paham **contoh** kita harus paham seberapa perut kita mampu menampung makanan. Maka pengetahuaan itu sumber nya kebahagiaan
 
-### KEUTAMAAN BERPIKIR
+## KEUTAMAAN BERPIKIR
 
 Berpikir merupakan kemampuan seseorang untuk menemukan apa yang paling penting untuk mencapai hasil yang baik untuk kehidupan manusia. Supaya mendukung kebahagiaan kamu dapat berpikir hanya untuk hal-hal yang baik dan utama. Kemudian pertahankan lah hal ini untuk waktu yang lama. Jika kamu keluar jalur itu kamu akan menemukan kegalauan-kegalauan. karna kamu berpikiran hal yang kurang penting dan kamu menjadikan hal itu penting. Jika kebaikan dan keutamaan ini bisa bertahan lama kamu bisa mencoba untuk menjadikan kebaikan dan keutamaan itu sebagai undang udang dalam kehidupan mu **contoh** jujur itu baik dan kamu pikir itu baik. nahh kamu bisa jadikan itu undang-undang untuk dirimu.
 
-### KEUTAMAAN MORAL
+## KEUTAMAAN MORAL
 
 Moral saja tanpa berfikir orang bisa salah arah, berfikir saja tanpa moral jadi nya hantu ideal ga ada wujut nya, maka keutamaan berfikir harus di ikuti dengan keutamaan modal
 
@@ -98,19 +98,19 @@ Keutamaan moral dapat di capai melalui:
 * Nasehat = Saran dari orang lain
 * Pembentukan karakter (habituasi) = kebiasaan. **contoh** kamu biasa sholat. ketika kamu ga sholat sekali kamu akan menyesal. Tetapi ketika kamu tidak sholat beberapa kali maka kamu tidak akan menyesal lagi seperti pertama kali meningalkan sholat
 
-### KEUTAMAAN PRAKISI-KREATIF
+## KEUTAMAAN PRAKISI-KREATIF
 
 Kebahagiaan tidak hanya moral nya bagus, pemikiran nya bagus, terori nya benar, tapi juga praksis nya kereatif (kontributif) dalam ilmu pengetahuan seperti membuat buku, atau memberi ilmu yang sudah kita dapatkan kepada orang lain. kalo kata nya karl marx manusia itu merasa bermakna dan merasa eksis ketika dia sedang kerja. Karya kita akan menjadi utama jika di buat oleh orang orang yang utama. cara untuk menjadi utama adalah memenuhi keutamaan keutamaan sebelum nya.
 
 ***
 
-## KEBAJIKAN SEPERTI MENULIS
+# KEBAJIKAN SEPERTI MENULIS
 
 Menurut al-farabi, perilaku utama itu seperti seni menulis, semakin orang belatih mempraktekan cara menulis, maka hasil tulisan nya kan semakin baik.
 
 Semakin orang membiasakan diri menjadikan kebajikan, semakin ia akan menjadi bijak, dan pada akhirnya secara otomatis ia akan mengenyam kebahagiaan.
 
-### KEBAHAGIAAN MANUSIA: ANTARA KEMAMPUAN DAN KEMAUAN
+## KEBAHAGIAAN MANUSIA: ANTARA KEMAMPUAN DAN KEMAUAN
 
 Setiap manusia sudah memiliki semua pra-syarat untuk mencapai kebahagiaan (seperti: Tuhan sudah menyediakan alam untuk kita mengambil bahan bahan yang di perlukan untuk kita sehari-hari, Tuhan sudah menyediakan Tangan, kaki, Mulut, Akal untuk menjalani kehidupan sehari hari). Tetapi tidak semua manusia mau memperdayakan 'kapasitas' yang sudah di berikan tuhan kepada kita dan tidak semua orang yang sudah memdayagunakan 'kapasitas'-nya otomatis mancapai kebahagiaan, karna kadang kebahagiaan bukan tujuannya, Tetapi tidak semua yang mendayagunakan 'kapasitas'-nya dan kebahagiaan yang manjadi tujuannya, karna kadang metode yang digunakannya keliru, baik dalam level teoritis, pemikiran, moral maupun praktis
 
