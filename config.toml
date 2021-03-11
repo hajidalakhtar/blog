@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Berfilsafat | Sebuah informasi untuk anak muda"
 theme = "yinyang"
 DefaultContentLanguage = "filsafat"
-draft= true
+buildDrafts = true
 
 
 [author]
