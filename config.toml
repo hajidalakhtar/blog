@@ -1,18 +1,10 @@
-baseURL = "https://blog.joway.io/"
+baseURL = "https://berfilsafat.site/"
 languageCode = "en-us"
 title = "Berfilsafat | Sebuah informasi untuk anak muda"
 theme = "yinyang"
 DefaultContentLanguage = "filsafat"
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-  [markup.highlight]
-    guessSyntax = true
-    noClasses = true
-    style = "bw"
-    tabWidth = 2
+
 
 [author]
   name = "Hajid Al Akhtar"
