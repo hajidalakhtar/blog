@@ -1,6 +1,7 @@
 +++
 categories = ["KEBAHAGIAAN"]
 date = 2021-02-20T17:00:00Z
+draft = true
 linktitle = "kebahagiaan-al-farabi"
 source = ["https://id.wikipedia.org/wiki/Al-Farabi", "https://www.youtube.com/watch?v=LxCcVvI-V24"]
 title = "Al-Farabi"

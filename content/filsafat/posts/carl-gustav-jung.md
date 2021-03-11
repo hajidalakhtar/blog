@@ -1,13 +1,12 @@
 +++
 categories = ["PSIKOLOGI"]
 date = 2021-02-19T17:00:00Z
+draf = true
 linktitle = "kemanusiaan-carl"
 source = ["https://id.wikipedia.org/wiki/Carl_Gustav_Jung", "https://www.youtube.com/watch?v=wPJmc-En-rQ"]
 title = "Carl Gustav Jung "
-draf = true
 
 +++
-
 **Carl Gustav Jung** lahir di Kesswil, 26 Mei 1875 – meninggal di Küsnacht, 6 Juni 1961 pada umur 86 tahun adalah psikolog yang berasal dari **Swiss** dan seseorang yang merintis dan mengembangkan konsep psikologi analitik atau psikoanalisis
 
 Ia adalah anak laki-laki tunggal dari Paul Jung. Ayah Jung adalah seorang pendeta Gereja Protestan yang melayani di sebuah pedesaan di kota kelahiran Jung. Ibunya bernama Emilie Preswerk Jung. Keluarganya termasuk kelas menengah ke atas dan berpendidikan. Oleh karena itu, Jung memiliki pemikiran yang eksentrik (aneh,tidak wajar) berkat pengetahuan yang juga dibagikan oleh anggota keluarganya
