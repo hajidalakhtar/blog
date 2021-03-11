@@ -16,6 +16,8 @@ Kegagalan bisnis ayahnya memaksa keluarga Freud untuk pindah dari rumah mereka d
 
 Dari pernikahan tersebut, Amalia dan Jakob memiliki delapan anak dan Sigmund Freud merupakan yang tertua. Freud adalah seorang Austria keturunan **Yahudi** dan pendiri aliran **psikoanalisis** dalam bidang ilmu **psikologi**.
 
+***
+
 ### Sejarah hidup Freud
 
 * Menjadi dokter di usia 25th. Ia sangat cerdas, pekerja keras (bekerja & menulis 18 jam sehari), menganggap diri sebagai raksasa intelektual (1881)
@@ -27,11 +29,9 @@ Dari pernikahan tersebut, Amalia dan Jakob memiliki delapan anak dan Sigmund Fre
 
 ***
 
-## Struktur Keperibadian Manusia
+# Struktur Keperibadian Manusia
 
 Menurut Freud Kepribadian memiliki 3 Struktur yang sering bertolak belakang, kita harus bisa menyeimbangkan ke 3 hal ini
-
-![](/uploads/untitled.png)
 
 1. **ID** ( Aspek biologis ) adalah dorongan-dorongan instinktif dalam diri manusia, ID adalah tabiat hewani manusia. Bekerja berdasarkan **prinsip kenikmatan,** menghilangkan ketidaknikmatan dengan cara:
    * Refleksi dan reaksi reaksi otomatis (bersin, berkedip )
@@ -43,8 +43,6 @@ Bisa kita umpamakan ID sebagai kuda, EGO sebagai penungang kuda dan SUPEREGO seb
 
 Jika kita memiliki ID yang dominan kita akan menjadi seperti binatang, Jika kita memiliki SUPEREGO yang dominan kita akan kurang mengunakan akal kita **Misal :** kita memberikan semua uang kita kepada orang yang membutuhkan hasil nya kita tidak memiliki uang untuk kebutuhan kita sendiri, yang paling baik adalah kita dikendalikan oleh EGO
 
-***
-
 ## Dua Jenis Instink Manusia (Jenis di dalam ID)
 
 ada dua intink dominan : (1) Eros/Libido - instink reproduktif yang menyediakan energi dasar untuk kegiatan-kegiatan manusia yang konstuktif; (2) Thanatos - instink destruktif dan agresif
@@ -54,7 +52,7 @@ ada dua intink dominan : (1) Eros/Libido - instink reproduktif yang menyediakan 
 
 ***
 
-## Perkembangan Kepribadian manusia
+# Perkembangan Kepribadian manusia
 
 perkembangan kepribadian manusia di bagi menjadi 3
 
@@ -67,7 +65,7 @@ perkembangan kepribadian manusia di bagi menjadi 3
 
 ***
 
-## Konflik ( atau kecemasan menurut Freud )
+# Konflik ( atau kecemasan menurut Freud )
 
 **Sesuatu yang baru pasti didahului oleh konflik**, karna sesuatu statis pasti hilang nya cepat
 
@@ -81,7 +79,7 @@ kecemasan di bagi menjadi 3 jenis yaitu
 
 ***
 
-## Defense mechanisms
+# Defense mechanisms
 
 biasa nya ketika kita di tuduh hal yang buruk dalam dirikita secara tidak langsung kita akan mengunakan defense mechanisms
 
