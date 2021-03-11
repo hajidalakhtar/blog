@@ -1,6 +1,7 @@
 +++
 categories = ["Other"]
 date = 2021-02-20T17:00:00Z
+draft = true
 linktitle = "muhasabah-diri"
 source = ["https://www.youtube.com/watch?v=fxugaRM55QE"]
 title = "Muhasabah Diri"
