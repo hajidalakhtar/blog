@@ -15,6 +15,8 @@ Sosialisme adalah serangkaian sistem ekonomi dan sosial yang ditandai dengan kep
 
 Setelah kerajaan-kerajaan hancur secara umum, lahirlah Feodalisme maka para bangsawan memiliki kekuasaan kecil-kecil atas daerah daerah kepemimpinannya, dan karena itu munculah kelompok borjuis (tuan tanah) dan kelompok proletar (pekerja), yang menjadikan tanah tanah sebagai milik kelompok borjuis dan mempekerjakan kelompok proletar sebagai pekerja, ketika kelompok proletar menghasilkan sesuatu kelompok borjuis lah yang menikmati hasil nya, dan kelompok proletar akan selalu kalah dengan kelompok borjuis **seperti** ketika kelompok proletar membuat usaha dengan modal yang sangat sedikit, sedangkan kelompok borjuis membuat usaha dengan modal yang sangat banyak, maka kelompok proletar akan kalah. hal ini semakin terlihat setelah **revolusi industri**. karena kondisi yang sangat buruk tersebut lahir lah gagasan sosialisme
 
+***
+
 # KONSEP SOSIALISME
 
 * **COMMUNITY** = Semua keputusan untuk kepentingan bersama
@@ -43,7 +45,7 @@ Komunisme didasari kepada ide-ide Karl Marx, inti permasalahannya adalah kelas-k
 
 Di level paling bawah ada kelompok pekerja, dan hasil nya di nikmati oleh para pemilik modal, dan struktur ini bisa berjalan karena dilindungi oleh militer supaya para kelompok pekerja ini tidak marah-marah dan menerima kondisi, lalu ada kelompok rohaniawan mereka yang membuat para pekerja ini tenang dengan cara keagamaan **seperi** "semua nya sudah di atur oleh tuhan, tugas kita hanya menerima saja." dan semua itu di atur oleh penguasa yang di bayar oleh pemilik modal. Dan ini lah yang di kririk oleh Karl Marx dan mencetuskan ide revolusi
 
-## TEORI KOMUNISME KARL MARX
+### TEORI KOMUNISME KARL MARX
 
 Untuk Mencapai komunisme Marx membuat sebuah teori atau tahapan yang harus di capai untuk menghapus kelas sosial
 
@@ -53,30 +55,30 @@ Untuk Mencapai komunisme Marx membuat sebuah teori atau tahapan yang harus di ca
 * Kompetisi bebas
 * Lahir kelas-kelas ekonomi yang tidak setara
 
-2. **PERJUANGAN KELAS**
+1. **PERJUANGAN KELAS**
 
 * Pertarungan antara kelas atas dan kelas pekerja (Borjuis vs Proletar)
 
-3. **REVOLISI PROLETAR**
+1. **REVOLISI PROLETAR**
 
 * Kelas pekerja merancang pemberontakan untuk menaklukan kelas atas
 
-4. **SOCIALISME**
+1. **SOCIALISME**
 
 * Kelas pekerja menguasai industri dan memerintah
 * Barmaksud melahirkan kesetaraan ekonomi
 * Tujuan akhirnya masyarakan tanpa kelas
 
-5. **KOMUNISME**
+1. **KOMUNISME**
 
 * Lahir masyarakat tanpa kelas
 * Negara dan pemerintah tidak dibutuhkan lagi
 
-## APAKAH ADA NEGARA KOMUNISME?
+### APAKAH ADA NEGARA KOMUNISME?
 
 Tidak. Kenyataan nya tidak ada negara yang pernah sampai ke tahap komunisme, tetapi beberapa negara sudah sampe ke tahap socialisme seperti China, Cuba, Vietnam dll. Biarpun beberapa negara tersebut pada saat ini sudah tidak memakai sosialisme sebagai ideologi nya
 
-## MENGAPA PARA SOSIALIS AWAL TERTARIK KEPADA GAGASAN REVOLUSI?
+### MENGAPA PARA SOSIALIS AWAL TERTARIK KEPADA GAGASAN REVOLUSI?
 
 ada beberapa dasar yang membuat para sosialis awal tertarik dengan ide revolusi karl marx. beberapa diantaranya:
 
@@ -86,13 +88,13 @@ ada beberapa dasar yang membuat para sosialis awal tertarik dengan ide revolusi 
 * Revolisi (pemberontakan bersenjata) juga sesuai dengan kondisi masyarakat di Dunia ketiga saat itu (awal abad 19) untuk menggalang masa melawan kolonialisme dari negara-negara barat
 * Menurut Marx, setiap kelas sosial memiliki kepentingan; oleh karena itu satu-satunya cara untuk membangun sosialisme adalah dengan menaklukkan negara kapitalis yang merupakan kelas kapitalis borjuis yang kalau melihat posisinya tidak akan mau secara damai menyerahkan kenyamanan dan kekuasaan nya
 
-## MENGAPA REVOLUSI SOSIAL HARUS MENGHASILKAN DICTATORSHIP?
+### MENGAPA REVOLUSI SOSIAL HARUS MENGHASILKAN DICTATORSHIP?
 
 Menurut Marx, setelah kelompok proletar menaklukkan negara kapitalis, ia harus memerintah dulu secara keras (diktatorship) untuk mencegah lahirnya counter revolution dan menciptakan masyarakat egaliter didasari kepada kepemilikan
 
 Kelompok revolusioner secara niscaya akan mengadopsi struktur militeristik untk merancang revolusi dan melanjutkannya membentuk negara baru
 
-# KRITIK TERHADAP MARX
+### KRITIK TERHADAP MARX
 
 * Pemastian Marx akan lahirnya dictatorship saat kelompok pekerja memperoleh kekuasaan
 * Lanin: Masyarakat pekerja tidak akan mempu mengembangkan kesadaran kelas (karena kaum pekerja sedikit yang berpendidikan), dibutuhkan satu "Partai" revolusioner untuk memahamkan mereka bahwa kesuksesan mereka tidak terletak pada naek gaji, namum dalam tersingkirnya negara kapitalis
