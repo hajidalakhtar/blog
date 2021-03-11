@@ -6,14 +6,13 @@ source = ["https://id.wiktionary.org/wiki/menganalogikan", "https://id.wikipedia
 title = "Imam Abu Hanifah"
 
 +++
-
 **Nu’man bin Tsabit bin Zuta bin Mahan at-Taymi**, lebih dikenal dengan nama **Abū Ḥanīfah**, merupakan pendiri dari Madzhab Fiqih Hanafi. Beliau lahir di Kufah, Irak pada 80 H / 699 M dan meninggal di Baghdad, Irak, 148 H / 767 M)
 
 Abu Hanifah juga merupakan seorang Tabi'in, generasi setelah Sahabat nabi, karena dia pernah bertemu dengan salah seorang sahabat Rasulullah SAW bernama Anas bin Malik dan beberapa peserta Perang Badar yang dimuliakan Allah SWT yang merupakan generasi terbaik islam, dan meriwayatkan hadits darinya serta sahabat Rasulullah SAW lainnya.
 
 Imam Hanafi disebutkan sebagai tokoh yang pertama kali menyusun kitab fiqh berdasarkan kelompok-kelompok yang berawal dari kesucian (taharah), shalat dan seterusnya, yang kemudian diikuti oleh ulama-ulama sesudahnya seperti Malik bin Anas, Imam Syafi'i, Abu Dawud, Imam Bukhari. kata nya tidak ada orang lain yang selevel dengan imam abu hanifah untuk sekarang ini
 
----
+***
 
 # DASAR MENETAPKAN HUKUM
 
@@ -23,41 +22,39 @@ Untuk menetapkan dasar hukum imam Abu Hanafi mengutamakan al'quran dan hadis, ke
 
 ## DASAR ISTIMBATH HUKUM
 
-- AL-QUR'AN = Kitab suci umat islam
-- Sunnah = Perkataan dan perbuatan Nabi Muhammad shalallahu alaihi wassalam
-- Qaul Sahabat = Perkataan para sahabat nabi
-- Qiyas = menganalogikan hukum satu dengan hukum yang lain atau setara
-- Istihsan = mencari yang baik (meningalkan satu hukum yang sudah di tetapkan ke hukum yang lain dengan pertimbangan Maslahah) **seperti** suatu ketika umar tidak memotong tangan seorang pencuri. karena kasian terhadap pencuri tersebut, karena pencuri itu mencuri dalam keadaan terpaksa (mungkin tetanganya sangat pelit sehinga dia tidak bisa meminta tolong kepada siapapun lagi dan dia tidak bisa bekerja karena suatu hal) berbeda dengan imam Syafi'i yang tidak menjadikan istihsan ini sebagai dasar karena takut nanti orang malah mengada mengada dan menentukan masalah masalah sendiri
-- 'Urf = Adat yang positif, yang makruf itu boleh dijadikan dasar, tapi tetep adat nya harus sahih dan positif, seperti ngaji, silatuahmi dan lain lain nya biarpun tidak ada dasar nya tapi ini boleh di jadikan dasar
+* AL-QUR'AN = Kitab suci umat islam
+* Sunnah = Perkataan dan perbuatan Nabi Muhammad shalallahu alaihi wassalam
+* Qaul Sahabat = Perkataan para sahabat nabi
+* Qiyas = menganalogikan hukum satu dengan hukum yang lain atau setara
+* Istihsan = mencari yang baik (meningalkan satu hukum yang sudah di tetapkan ke hukum yang lain dengan pertimbangan Maslahah) **seperti** suatu ketika umar tidak memotong tangan seorang pencuri. karena kasian terhadap pencuri tersebut, karena pencuri itu mencuri dalam keadaan terpaksa (mungkin tetanganya sangat pelit sehinga dia tidak bisa meminta tolong kepada siapapun lagi dan dia tidak bisa bekerja karena suatu hal) berbeda dengan imam Syafi'i yang tidak menjadikan istihsan ini sebagai dasar karena takut nanti orang malah mengada mengada dan menentukan masalah masalah sendiri
+* 'Urf = Adat yang positif, yang makruf itu boleh dijadikan dasar, tapi tetep adat nya harus sahih dan positif, seperti ngaji, silatuahmi dan lain lain nya biarpun tidak ada dasar nya tapi ini boleh di jadikan dasar
 
----
+***
 
 # CONTOH KARAKTERISTIK PEMIKIRAN
 
 beberapa contoh fatwa yang bisa kita simpulkan menjadi karakteristik Imam Abu hanafi ( **jika ada yang salah tolong di revisi yaa** ):
 
-- Keberpihakan kepada yang lemah **seperti** ketentuan wajib zakat pada pakaian yang terbuat dari emas dan perak (baju yang harga nya melebihi syarat zakat), serta tidak diwajibkan zakat pada orang yang mempunyai hutang.
-- Kemudahan **seperti** ketika di malam yang gelap atau pada saat susah ketika menentukan arah kiblat. Seseorang yang shalat dalam kondisi demikian, kemudian dia shalat sesuai keyakinannya, maka hukum shalatnya sah sekalipun ternyata ia tidak menghadap kiblat. Dengan syarat dia sudah berusaha mencari arah kiblat
-- Kemanusiaan **seperti** bagi anak-anak perempuan yang sudah mencapai umur untuk mencari pasangan hidup tanpa ada paksaan dari wali hukum nya sah. Tetapi perkawinan yang dilakukan secara paksa terhadap anak perempuan, hukumnya tidak sah jika ia menolak perkawinan tersebut
+* Keberpihakan kepada yang lemah **seperti** ketentuan wajib zakat pada pakaian yang terbuat dari emas dan perak (baju yang harga nya melebihi syarat zakat), serta tidak diwajibkan zakat pada orang yang mempunyai hutang.
+* Kemudahan **seperti** ketika di malam yang gelap atau pada saat susah ketika menentukan arah kiblat. Seseorang yang shalat dalam kondisi demikian, kemudian dia shalat sesuai keyakinannya, maka hukum shalatnya sah sekalipun ternyata ia tidak menghadap kiblat. Dengan syarat dia sudah berusaha mencari arah kiblat
+* Kemanusiaan **seperti** bagi anak-anak perempuan yang sudah mencapai umur untuk mencari pasangan hidup tanpa ada paksaan dari wali hukum nya sah. Tetapi perkawinan yang dilakukan secara paksa terhadap anak perempuan, hukumnya tidak sah jika ia menolak perkawinan tersebut
 
 Beberapa contoh perkataan yang bisa kita simpulkan menjadi karakteristik Imam Abu hanafah:
 
-- **Memiliki jiwa terbuka**
-  - "Perkataan kami ini pendapat, dan kami memperkirakan ini lebih baik. Dan barang siapa membawa apa yang lebih baik dari perkataan kami, maka ia lebih benar dari pendapat kami"
-  - "Apabila saya mengatakan sebuah pendapat yang menyelisihi kitab Allah dan hadist Rasulullah yang shahih, maka tingalkan perkataanku"
-  - "Sesungguhnya kami adalah manusia biasa, kami berpendapat pada hari ini, dan kami rujuk (membatalkan) pendapat tersebut pada pagi harinya"
-- **Memilih hadis yang Shahih**
-  - "Apabila telah shahih sebuah hadits maka hadits tersebut menjadi mazhabku"
-- **Ingin Mencerdaskan umat islam**
-  - "Tidak halal bagi seseorang untuk mengambil/memakai pendapat kami selama dia tidak mengetahui dari dalil mana kami mengambil pendapat tersebut"
+* **Memiliki jiwa terbuka**
+  * "Perkataan kami ini pendapat, dan kami memperkirakan ini lebih baik. Dan barang siapa membawa apa yang lebih baik dari perkataan kami, maka ia lebih benar dari pendapat kami"
+  * "Apabila saya mengatakan sebuah pendapat yang menyelisihi kitab Allah dan hadist Rasulullah yang shahih, maka tingalkan perkataanku"
+  * "Sesungguhnya kami adalah manusia biasa, kami berpendapat pada hari ini, dan kami rujuk (membatalkan) pendapat tersebut pada pagi harinya"
+* **Memilih hadis yang Shahih**
+  * "Apabila telah shahih sebuah hadits maka hadits tersebut menjadi mazhabku"
+* **Ingin Mencerdaskan umat islam**
+  * "Tidak halal bagi seseorang untuk mengambil/memakai pendapat kami selama dia tidak mengetahui dari dalil mana kami mengambil pendapat tersebut"
 
----
+***
 
 # HIKMAH
 
 Kita sebagai umat muslim ada baiknya melihat berbagai macam tokoh-tokoh islam. Karena ada banyak sekali hal-hal dan pelajaran-pelajaran yang bisa kita ambil, Oleh karena itu kita akan masuk ke dalam beberapa hikmah dari kehidupan Imam Abu Hanifah
-
----
 
 ## NASEHAT DARI ANAK KECIL
 
@@ -123,7 +120,7 @@ Abu Hanifah Rahimahullah memiliki kesabaran yang luas. Ia tidak terprovokasi dan
 
 Sabarlah pada orang yang memakimu, dan teguh lah pada apa yang kau angap benar, Jangan sampai karena dicacimaki, kita membuat apa yang benar menjadi salah
 
----
+***
 
 # NASEHAT
 
@@ -153,8 +150,8 @@ Jika engkau melihat penguasa melakukan sesuatu yang tidak sesuai dengan pendapat
 
 Hendaklah kamu berpegang dan bersandar pada lima hadits yang telah aku seleksi dari 500.000 hadits
 
-- "**sesunguh nya amal perbuatan itu tergantung niat nya**" = dalam hidup kita ada banyak kegiatan, dan kegiatan itu bisa bernilai tergantung niat nya **seperti** kita bekerja niat nya hanya untuk makan saja maka nilai perbuatan tersebut adalah untuk dunia saja
-- "**di antara ciri kebaikan islamnya seseorang adalah meningalkan apa apa yang tidak ada guna nya dengan diri nya**" = jangan di sibukan oleh hal hal yang ga ada guna nya, muslim yang baik adalah meningalkan apa apa yang ga ada guna nya, yang ga ada guna nya aja di hindarin apa lagi yang jelek jelek, kita kan hari ini sering cape dengan hal hal yang tidak ada hubungan nya dengan kita
-- "**tidak beriman seseorang di antara kalian sampai dia mencintai sodara nya seperti mencintai dirinya sendiri**" = kalau kita tidak mencintai sodara kita sperti kita mencintai dirikita sendiri maka iman kita bisa di pertanyakan, lakukan lah hal yang sama kepada orang lain seperti hal nya kamu ingin melakukan nya pada dirimu, dan janganlkah kamu melakukan hal kepada seseorang jika kau tidak ingin melakukan hal tersebut kepada dirimu
-- "**Sesungguhnya yang halal itu sudah jelas dan yang haram juga sudah jelas. Namun di antara keduanya ada perkara syubhat (samar) yang tidak diketahui oleh banyak orang. Maka barang siapa menjauhi diri dari yang syubhat, berarti telah memelihara agamanya dan kehormatannya. Dan barang siapa sampai jatuh (mengerjakan) pada perkara-perkara syubhat (samar), sungguh dia jatuh pada perkara yang haram, seperti seorang gembala yang menggembalakan ternaknya di pinggir jurang yang dikhawatirkan akan jatuh ke dalamnya. Ketahuilah bahwa setiap raja memiliki batasan dan ketahuilah bahwa batasan larangan Allah di bumi-Nya adalah apa-apa yang diharamkanNya. Dan ketahuilah, pada setiap tubuh ada segumpal darah yang apabila ia baik, maka baiklah tubuh tersebut, dan apabila rusak, maka rusaklah tubuh tersebut. Ketahuilah, ia adalah hati**" = supaya kita tidak jauh ke dalam keharaman lebih baik kita hati hati
-- "**Muslim yang sejati itu adlaah orang yang uman islam yang lain merasa aman dari mulut nya dan tangan nya**" = kita harus menjaga mulut dan tangan kita
+* "**sesunguh nya amal perbuatan itu tergantung niat nya**" = dalam hidup kita ada banyak kegiatan, dan kegiatan itu bisa bernilai tergantung niat nya **seperti** kita bekerja niat nya hanya untuk makan saja maka nilai perbuatan tersebut adalah untuk dunia saja
+* "**di antara ciri kebaikan islamnya seseorang adalah meningalkan apa apa yang tidak ada guna nya dengan diri nya**" = jangan di sibukan oleh hal hal yang ga ada guna nya, muslim yang baik adalah meningalkan apa apa yang ga ada guna nya, yang ga ada guna nya aja di hindarin apa lagi yang jelek jelek, kita kan hari ini sering cape dengan hal hal yang tidak ada hubungan nya dengan kita
+* "**tidak beriman seseorang di antara kalian sampai dia mencintai sodara nya seperti mencintai dirinya sendiri**" = kalau kita tidak mencintai sodara kita sperti kita mencintai dirikita sendiri maka iman kita bisa di pertanyakan, lakukan lah hal yang sama kepada orang lain seperti hal nya kamu ingin melakukan nya pada dirimu, dan janganlkah kamu melakukan hal kepada seseorang jika kau tidak ingin melakukan hal tersebut kepada dirimu
+* "**Sesungguhnya yang halal itu sudah jelas dan yang haram juga sudah jelas. Namun di antara keduanya ada perkara syubhat (samar) yang tidak diketahui oleh banyak orang. Maka barang siapa menjauhi diri dari yang syubhat, berarti telah memelihara agamanya dan kehormatannya. Dan barang siapa sampai jatuh (mengerjakan) pada perkara-perkara syubhat (samar), sungguh dia jatuh pada perkara yang haram, seperti seorang gembala yang menggembalakan ternaknya di pinggir jurang yang dikhawatirkan akan jatuh ke dalamnya. Ketahuilah bahwa setiap raja memiliki batasan dan ketahuilah bahwa batasan larangan Allah di bumi-Nya adalah apa-apa yang diharamkanNya. Dan ketahuilah, pada setiap tubuh ada segumpal darah yang apabila ia baik, maka baiklah tubuh tersebut, dan apabila rusak, maka rusaklah tubuh tersebut. Ketahuilah, ia adalah hati**" = supaya kita tidak jauh ke dalam keharaman lebih baik kita hati hati
+* "**Muslim yang sejati itu adlaah orang yang uman islam yang lain merasa aman dari mulut nya dan tangan nya**" = kita harus menjaga mulut dan tangan kita
