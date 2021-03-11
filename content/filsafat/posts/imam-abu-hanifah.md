@@ -18,7 +18,7 @@ Imam Hanafi disebutkan sebagai tokoh yang pertama kali menyusun kitab fiqh berda
 
 Untuk menetapkan dasar hukum imam Abu Hanafi mengutamakan al'quran dan hadis, ketika beliau tidak menemukan nya, beliau akan melihat para sahabat, jika tidak di temukan juga maka beliau akan berijtihad
 
-> "Aku merujuk kitab Allah. Bila aku tidak menemukan (dasar hukum) didalamnya, aku akan merujuk sunnah. Bila di dalam keduanya aku juga tidak menemukan, aku memilih pendapat siapa saja dari mereka yang ku kehendaki, aku tidak akan pindah dari satu pendapat ke pendapat sahabat yang lain. Apabila urusan sudah sampai kepada ibrahim, al-Sya'bi, ibnu sirrin, al-Hasan, al-Atha, Sa'id ibnu Musayyab, dan sejumlah seorang yang lainnya, mereka semua sudah berijtihad, maka aku akan berijtihad sebagaimana mereka berijtihad"
+"Aku merujuk kitab Allah. Bila aku tidak menemukan (dasar hukum) didalamnya, aku akan merujuk sunnah. Bila di dalam keduanya aku juga tidak menemukan, aku memilih pendapat siapa saja dari mereka yang ku kehendaki, aku tidak akan pindah dari satu pendapat ke pendapat sahabat yang lain. Apabila urusan sudah sampai kepada ibrahim, al-Sya'bi, ibnu sirrin, al-Hasan, al-Atha, Sa'id ibnu Musayyab, dan sejumlah seorang yang lainnya, mereka semua sudah berijtihad, maka aku akan berijtihad sebagaimana mereka berijtihad"
 
 ## DASAR ISTIMBATH HUKUM
 
