@@ -7,12 +7,30 @@
     <div class="row">
       <div class="col-xs-12">
         {{ partial "header.html" . }}
-        <div id="posts-list">
+        <div class="owl-carousel " style="margin-top:10px">
+          {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
+          {{ range $key, $value := $taxonomy }}
+          <div class="multi-button">
+                  <button onclick="window.location.href = '{{ site.LanguagePrefix }}/categories/{{ $key }}/'">{{ replaceRE "(-)" " " $key}}</button>
+                </div>
+                <!-- <div class="item" style="border:1px solid black; border-radius:10px"><p style="text-align: center;padding:0px;margin:10px"> {{ replaceRE "(-)" " " $key}}</p></div> -->
+              {{end}}
+              {{end}}
+</div>
 
-	{{if ne .URL  "/cognitive_bias/"}}
+<!-- <div class="multi-button">
+  <button>Cut</button>
+  <button>Copy</button>
+  <button>Paste</button>
+</div> -->
+          <!-- </div> -->
+        <div id="posts-list">
+          {{if ne .URL  "/cognitive_bias/"}}
+
   {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
     {{ if eq "categories" $taxonomyname }}
       {{ range $key, $value := $taxonomy }}
+      
           <section>
             <h1 class="site-date-catalog" style="text-transform: uppercase; font-size:25px"> {{ replaceRE "(-)" " " $key}}</h1>
 
@@ -60,7 +78,6 @@
   {{end}}
 
         </div>
-
         {{ partial "footer.html" . }}
       </div>
     </div>
