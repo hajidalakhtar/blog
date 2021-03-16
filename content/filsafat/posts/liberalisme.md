@@ -13,7 +13,7 @@ Secara umum, liberalisme mencita-citakan suatu masyarakat yang bebas, dicirikan 
 
 Dalam masyarakat modern, liberalisme akan dapat tumbuh dalam sistem demokrasi, hal ini dikarenakan keduanya sama-sama didasarkan pada kebebasan mayoritas. Banyak suatu negara yang tidak mematuhi peraturan tersebut.
 
-## INTI DARI LIBERALISME
+# INTI DARI LIBERALISME
 
 * **Kebebasan berbicara/berpendapat** = Orang dibebaskan untuk memberikan pendapat sesuai dengan yang ada dipikirannya, jika pendapat nya salah maka akan dibetulkan oleh orang-orang yang lebih paham, tetapi tetap harus objektif, jika ada pendapat yang lebih bagus maka akuilah hal itu lebih bagus
 * **3** **Hukum kodrat manusia : 1) Life-not under anyone =** setiap manusia setara, semua nya level nya sama yaitu mahluk ciptaan tuhan, yang membedakan hanyalah fungsinya saja, ada yang berfungsi sebagai bos ada yang berfungsi sebagai anak buah . **2) Liberty - freedom to things =** manusia bebas melakukan apapun tetapi harus menangung resikonya **seperti** saya malas belajar dan saya harus menangung reseko bahwa saya akan menjadi bodoh. **3) Property - freedom to own things =** hak milik dihargai, manusia bebas memiliki apapun termasuk dirinya sendiri
@@ -29,15 +29,15 @@ Dahuli orang meyakini Raja adalah keturunan dewa, ketika terjadi pemberontakan r
 
 # LOCK & HOBBES : STATE OF NATURE
 
-### Thomas hobbs
+## Thomas hobbs
 
 Individu itu pada dasar nya jelek (egois) - sesuai dengan firtahnya. Namun, manusia ingin hidup damai. Oleh karena itu mereka membentuk suatu masyarakat baru - suatu masyarakat politik yang terkumpul untuk membuat perjanjian demi melindungi hak-haknya dari individu lain dimana perjanjian ini memerlukan pihak ketiga (penguasa)
 
-### **John Locke**
+## **John Locke**
 
 individu pada dasarnya adalah baik, namun kerena adanya kesenjangan akibat harga atau kekayaan, maka khawatir jika hak individu akan diambil oleh orang lain sehingga mereka membuat perjanjian yang diserahkan oleh penguasa sebagai pihak tengah
 
-### **Kesimpulan**
+## **Kesimpulan**
 
 Dari pandangan kedua filsuf tersebuh bisa disimpulkan bahwa negara adalah penengah antara individu dengan individu lain
 
@@ -72,11 +72,11 @@ Liberalisme modern adalah versi liberalisme yang dominan di Amerika Serikat . In
 
 # KONOTASI LIBERALISM
 
-### Positif
+## Positif
 
 Faham yang menjunjung tinggi kemerdekaan batik, yang menolak segala macam pembatasan (lawan dari faham determinisme dan naturalisme)
 
-### Negatif
+## Negatif
 
 faham yang membolehkan orang untuk berbuat semaunya, keluar dari norma yang berlaku dan pemberontakan terhadap tradisi
 
@@ -87,13 +87,13 @@ faham yang membolehkan orang untuk berbuat semaunya, keluar dari norma yang berl
 * Tidak mau terikat pada yang sudah ditetapkan atau yang sudah mapan, tetapi terbuka kepada kemungkinan-kemungkinan lain yang menurut pertimbangan akalnya akan lebih baik manfaat nya
 * Dalam arti ini liberalisme merupakan suatu "method" dan bukan suatu ajaran, doktrin ataupun ideologi
 
-# KONTEK LIBERALISME: POLITIK
+## KONTEK LIBERALISME: POLITIK
 
 * Menentang sentralisasi dan absolutisme kekuasaan
 * Munculnya republik-republik menggantikan kerajaan-kerajaan
 * Mencurigai segala bentuk kuasa kerena kuasa cenderung berkembang menjadi semakin besar dan menindas, maka harus dibatasi, misalnya dengan konsitusi
 
-# KONTEKS LIBERALISME: BUDAYA
+## KONTEKS LIBERALISME: BUDAYA
 
 * Menekankan hak-hak pribadi yang berkaitan dengan cara hidup setiap orang
 * Menentang keras campur tangan pemerintah yang mengatur sastra, seni, akademis, perjudian, seks, pelacur, aborsi, keluarga berencana dan "kontrol" lainnya
