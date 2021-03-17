@@ -29,17 +29,10 @@ Dahuli orang meyakini Raja adalah keturunan dewa, ketika terjadi pemberontakan r
 
 # LOCK & HOBBES : STATE OF NATURE
 
-## Thomas hobbs
+* **Thomas hobbs** = Individu itu pada dasar nya jelek (egois) - sesuai dengan firtahnya. Namun, manusia ingin hidup damai. Oleh karena itu mereka membentuk suatu masyarakat baru - suatu masyarakat politik yang terkumpul untuk membuat perjanjian demi melindungi hak-haknya dari individu lain dimana perjanjian ini memerlukan pihak ketiga (penguasa)
+* **John Lock** = individu pada dasarnya adalah baik, namun kerena adanya kesenjangan akibat harga atau kekayaan, maka khawatir jika hak individu akan diambil oleh orang lain sehingga mereka membuat perjanjian yang diserahkan oleh penguasa sebagai pihak tengah
 
-Individu itu pada dasar nya jelek (egois) - sesuai dengan firtahnya. Namun, manusia ingin hidup damai. Oleh karena itu mereka membentuk suatu masyarakat baru - suatu masyarakat politik yang terkumpul untuk membuat perjanjian demi melindungi hak-haknya dari individu lain dimana perjanjian ini memerlukan pihak ketiga (penguasa)
-
-## **John Locke**
-
-individu pada dasarnya adalah baik, namun kerena adanya kesenjangan akibat harga atau kekayaan, maka khawatir jika hak individu akan diambil oleh orang lain sehingga mereka membuat perjanjian yang diserahkan oleh penguasa sebagai pihak tengah
-
-## **Kesimpulan**
-
-Dari pandangan kedua filsuf tersebuh bisa disimpulkan bahwa negara adalah penengah antara individu dengan individu lain
+  Dari pandangan kedua filsuf tersebuh bisa disimpulkan bahwa negara adalah penengah antara individu dengan individu lain
 
 # DUA MASA LIBERALSME
 
@@ -72,13 +65,8 @@ Liberalisme modern adalah versi liberalisme yang dominan di Amerika Serikat . In
 
 # KONOTASI LIBERALISM
 
-## Positif
-
-Faham yang menjunjung tinggi kemerdekaan batik, yang menolak segala macam pembatasan (lawan dari faham determinisme dan naturalisme)
-
-## Negatif
-
-faham yang membolehkan orang untuk berbuat semaunya, keluar dari norma yang berlaku dan pemberontakan terhadap tradisi
+* Positif = Faham yang menjunjung tinggi kemerdekaan batik, yang menolak segala macam pembatasan (lawan dari faham determinisme dan naturalisme)
+* Negatif = faham yang membolehkan orang untuk berbuat semaunya, keluar dari norma yang berlaku dan pemberontakan terhadap tradisi
 
 # KONTEKS LIBERALISME
 
@@ -86,6 +74,7 @@ faham yang membolehkan orang untuk berbuat semaunya, keluar dari norma yang berl
 * Kritik terhadap adat-istiadat, tradisi dan konvensi
 * Tidak mau terikat pada yang sudah ditetapkan atau yang sudah mapan, tetapi terbuka kepada kemungkinan-kemungkinan lain yang menurut pertimbangan akalnya akan lebih baik manfaat nya
 * Dalam arti ini liberalisme merupakan suatu "method" dan bukan suatu ajaran, doktrin ataupun ideologi
+* 
 
 ## KONTEK LIBERALISME: POLITIK
 
@@ -98,7 +87,7 @@ faham yang membolehkan orang untuk berbuat semaunya, keluar dari norma yang berl
 * Menekankan hak-hak pribadi yang berkaitan dengan cara hidup setiap orang
 * Menentang keras campur tangan pemerintah yang mengatur sastra, seni, akademis, perjudian, seks, pelacur, aborsi, keluarga berencana dan "kontrol" lainnya
 
-# KONTEKS LIBERALISME: SOSIAL
+## KONTEKS LIBERALISME: SOSIAL
 
 John Stuart Mill dalam On Liberty (1859) memaparkan tentang sejauh mana kuasa masyarakat bisa diterapkan atas individu. Ia sangat menekankan pembelaan atas kebebasan berpikir dan berpendapat setiap orang, karena hal itu merupakan prasyarat wajib bagi perkembangan intelektual dan sosial
 
@@ -106,13 +95,13 @@ Mill mendefinisikan "kebebasan sosial" sebagai perlundungan dari "penguasa polit
 
 Menurut mill, kebebasan sosial berarti membatasi kekuatan penguasa melalui pengakuan terhadap kebebasn politik dan Ham dengan control dari "konstitusi"
 
-# KONTEKS LIBERALISM : EKONOMI
+## KONTEKS LIBERALISM : EKONOMI
 
 * Free market, semua hubungan ekonomi tercipta oleh pasar bebas, campur tangan dari pihak menapun tidak dibenarkan
 * Mendukung kepemilikan harta pribadi
 * Menetang peraturan-peraturan pemerintah yang membatasi hak-hak terhadap harta pribadi
 
-## CIRI EKONOMI LIBERAL
+### CIRI EKONOMI LIBERAL
 
 * Semua sumber produksi adalah milik masyarakat individu **seperti** jika ada emas dihalaman rumah mu, maka negara tidak boleh mengambil nya, tetapi negara harus membeli nya dari kamu
 * Masyarakat diberi kebebasan dalam memiliki sumber-sumber produksi
@@ -122,7 +111,7 @@ Menurut mill, kebebasan sosial berarti membatasi kekuatan penguasa melalui penga
 * Kegiatan selalu mempertingakan keadaan pasar **seperti** pornografi, selagi pasar banyak yang butuh maka pornografi tidak akan hilang
 * Pasar merupakan dasar setiap tindakan ekonomi
 
-## KEUNTUNGAN SISTEM EKONOMI LIBERAL
+### KEUNTUNGAN SISTEM EKONOMI LIBERAL
 
 * Menumbukan inisiatif dan kreasi masyarakat dalam mengatur kegiatan ekonomi, karena masyarakat tidak perlu lagi menunggu perintah/komando dari pemerintah.
 * Setiap individu bebas memiliki untuk sumber-sumber daya produksi, yang nantinya akan mendorong partisipansi masyarakat dalam perekonomian.
@@ -130,7 +119,7 @@ Menurut mill, kebebasan sosial berarti membatasi kekuatan penguasa melalui penga
 * Menghasilkan barang-barang bermutu tinggi, karena adanya persaingan semangat antar masyarakat
 * Efisiensi dan efektivitas tinggi, karena setiap tindakan ekonomi didasarikan motif mencari keuntungan
 
-# KELEMAHAN SISTEM EKONOMI LIBERAL
+### KELEMAHAN SISTEM EKONOMI LIBERAL
 
 * Terjadi persaingan bebas yang tidak sehat saat birokratnya korup
 * Memungkinkan terjadi monopoli yang menyebabkan masyarakat yang kaya semakin kaya dan yang miskin semakin miskin
